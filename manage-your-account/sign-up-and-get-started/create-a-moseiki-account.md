@@ -19,3 +19,32 @@
 11. Fill in your profile details and tap Next.&#x20;
 
 </details>
+
+<details>
+
+<summary>Edit your profile information</summary>
+
+1. Tap <mark style="color:purple;">Profile</mark> in the navigation bar.
+2. Tap <mark style="color:purple;">Edit Profile</mark>.
+3. Click the profile you’d like to update.
+4. Type in your information and tap <mark style="color:purple;">Save</mark>.
+
+</details>
+
+### Moseiki Id
+
+<details>
+
+<summary>What can i do if the Moseiki Id is reserved?</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>What if a Moseiki Account is using my registered trademark as its Moseiki Id?</summary>
+
+
+
+</details>
