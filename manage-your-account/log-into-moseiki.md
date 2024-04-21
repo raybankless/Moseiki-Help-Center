@@ -20,6 +20,6 @@ When you're logging into an account, you have to use the username and password f
 
 <summary>Continue with Google</summary>
 
-You can tap the <mark style="color:purple;">**Continue with Google**</mark> button and select the Google Account you want to use with Moseiki. This will log you into Moseiki if you have an existing account, or if you do not, it will start account creation process with Google Auth.
+You can tap the <mark style="color:purple;">**Continue with Google**</mark> button and select the Google Account you want to use with Moseiki. This will log you into Moseiki if you have an existing account, or if you do not, it will start account creation process.
 
 </details>
