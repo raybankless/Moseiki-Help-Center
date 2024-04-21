@@ -6,26 +6,20 @@ When you're logging into an account, you have to use the username and password f
 
 <summary>Log into Moseiki</summary>
 
-Open Moseiki App.&#x20;
+1. Open Moseiki App.
+2. Click <mark style="color:purple;">**Login**</mark> button.
+3. Enter email or Moseiki Id.
+4. Enter your password.
+5. Click <mark style="color:purple;">**Login**</mark>.
 
-Click <mark style="color:purple;">**Login**</mark> button.
 
-Enter email or Moseiki Id.
-
-Enter your password.
-
-Click <mark style="color:purple;">**Login**</mark>.
 
 </details>
 
-### Log into Moseiki
+<details>
 
-
-
-### Continue with Google
+<summary>Continue with Google</summary>
 
 You can tap the <mark style="color:purple;">**Continue with Google**</mark> button and select the Google Account you want to use with Moseiki. This will log you into Moseiki if you have an existing account, or if you do not, it will start account creation process with Google Auth.
 
-
-
-\
+</details>
