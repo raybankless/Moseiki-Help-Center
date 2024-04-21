@@ -6,6 +6,7 @@
 
 * [Sign up and Get Started](manage-your-account/sign-up-and-get-started/README.md)
   * [Create a Moseiki Account](manage-your-account/sign-up-and-get-started/create-a-moseiki-account.md)
+* [Log into Moseiki](manage-your-account/log-into-moseiki.md)
 
 ## 🪄 Moseiki Features
 
