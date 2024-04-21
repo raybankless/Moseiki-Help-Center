@@ -11,12 +11,13 @@
 3. Tap Create <mark style="color:purple;">Let's Get Started</mark>.
 4. Select a Moseiki Id and tap Next.
 5. Enter your email and tap Next. <mark style="color:orange;">Note:</mark> Make sure you enter your email address correctly and choose an email address that only you can access. If you log out and forget your password, you'll need to be able to access your email to get back into your Instagram account.
-6. Create a strong password, at least 8 characters, then tap Next.
-7. Enter the confirmation code sent to your email address, then tap Next.
-8. Tap <mark style="color:purple;">Allow Notifications</mark>.
-9. Choose your interests and tap Next.
-10. Select a profile picture or create one with AI.
-11. Fill in your profile details and tap Next.&#x20;
+6. Create a strong password, at least 8 characters.
+7. Read Moseiki's terms and policies, then tap ![switch off](https://static.xx.fbcdn.net/assets/?revision=441432371766381\&name=instagram-toggleprofile-shared\&density=1), if you agree to the terms, to create your account. Then tap Next.
+8. Enter the confirmation code sent to your email address, then tap Next.
+9. Tap <mark style="color:purple;">Allow Notifications</mark>.
+10. Choose your interests and tap Next.
+11. Select a profile picture or create one with AI.
+12. Fill in your profile details and tap Next.&#x20;
 
 </details>
 
