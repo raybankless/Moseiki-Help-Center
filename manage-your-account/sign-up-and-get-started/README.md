@@ -8,4 +8,4 @@ Learn how to:
 * [Navigate the app](broken-reference).
 * Find people you know or people you might like to follow.
 
-If you’re having trouble signing up for Instagram, try these tips.
+If you’re having trouble signing up for Moseiki, try these tips.
