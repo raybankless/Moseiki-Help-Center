@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/Untitled design (8).png
+coverY: 0
+---
+
 # How can we help you?
 
 Moseiki is a decentralized social media platform that prioritizes user privacy and empowerment. Our blockchain technology allows users to own and monetize their data. This way we’re appreciating the value they created. Moseiki offers unique features such as NFTs, Social Finance, Daily Apps, Monetization, and Digital Identities. We are committed to transparency and security, and actively seek user input on platform decisions through community voting. Developers are more than welcome to contribute to Moseiki's growth.\
