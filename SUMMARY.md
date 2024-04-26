@@ -12,6 +12,7 @@
 
 * [Your Profile](moseiki-features/your-profile/README.md)
   * [Editing Your Profile](moseiki-features/your-profile/editing-your-profile.md)
+* [Create a Post](moseiki-features/create-a-post.md)
 
 ## 🌎 Navigation
 

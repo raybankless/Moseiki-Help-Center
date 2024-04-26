@@ -30,6 +30,14 @@ You can tap the <mark style="color:purple;">**Continue with Google**</mark> butt
 
 <details>
 
+<summary>Continue with Xion</summary>
+
+You can tap the <mark style="color:purple;">**Continue with Xion**</mark> button and enter an email address you want to use with Moseiki. This will log you into Moseiki if you have an existing account, or if you do not, it will start account creation process.
+
+</details>
+
+<details>
+
 <summary>Recover Your Account</summary>
 
 When you're logging into an account, you have to use the username and password for the account you're logging into. If that info isn't working, then you can try to recover your account by clicking the <mark style="color:purple;">**Forgot Password**</mark> button in the Login Screen.
@@ -41,3 +49,4 @@ When you're logging into an account, you have to use the username and password f
 5. Click <mark style="color:purple;">**Reset Password**</mark>
 
 </details>
+
