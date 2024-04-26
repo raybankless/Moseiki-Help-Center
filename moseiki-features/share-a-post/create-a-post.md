@@ -15,19 +15,18 @@ To start creating a post, tap on the <mark style="color:yellow;">(icon)</mark> "
    * **Public**: Visible to anyone on Moseiki.
    * **Private (or Close Friends)**: Visible only to your friends.
 3. **Compose Your Text**: You can type up to 222 characters. Emojis count as 2 characters each. The app will automatically suggest AI-generated photo thumbnails when you input a period (.) in your text.
-4. **Add Media and More**:
-   * Below the text area, use the selection bar to add different types of content to your post. Here’s what you can include: <mark style="color:yellow;">(icon for all)</mark>
-     * [**Add Media From Device Storage/Media Library**](https://app.gitbook.com/o/NopSIKLXcyXkMu2SCX9Y/s/ERa0omXloOunEjWXbqWy/\~/changes/21/moseiki-features/create-a-post#uploading-and-managing-media-from-your-device)
-     * **Add GIF from Giphy**
-     * **Tag Friend**
-     * **Add Voice Recording** (either from an audio file or use the in-app recorder)
-     * **Add Music from Sound Stripe**
-     * **Add Poll**
-     * **Add Location**
+4. **Add Media and More**: Below the text area, use the selection bar to add different types of content to your post. Here’s what you can include: <mark style="color:yellow;">(icon for all)</mark>
+   * [**Add Media From Device Storage/Media Library**](https://app.gitbook.com/o/NopSIKLXcyXkMu2SCX9Y/s/ERa0omXloOunEjWXbqWy/\~/changes/22/moseiki-features/share-a-post/create-a-post#add-media-from-device-storage-media-library)
+   * **Add GIF from Giphy**
+   * **Tag Friends**
+   * [**Add Voice Recording**](https://app.gitbook.com/o/NopSIKLXcyXkMu2SCX9Y/s/ERa0omXloOunEjWXbqWy/\~/changes/22/moseiki-features/share-a-post/create-a-post#add-voice-recording) (either from an audio file or use the in-app recorder)
+   * **Add Music from Sound Stripe**
+   * **Add Poll**
+   * **Add Location**
 5. **Content Compatibility**: When you choose a type of media, incompatible options will be faded out on the selection bar. Here’s a quick compatibility guide:
    * **Media from Device and GIFs**: Cannot be added together.
    * **Polls**: Cannot include GIFs, Media from the device, or Voice Recordings but can include Music and allow tagging friends and location.
-6. **Finalizing Your Post**: Once you have added your desired content, review your post to ensure everything is as you want it. When ready, tap the post button to share your creation with the community.
+6. Once you have added your desired content, review your post to ensure everything is as you want it. When ready, tap the post button to share your creation with the community.
 
 **Content Restrictions**: Please be aware that posts containing explicit violence, sexual content, or support for terrorism are prohibited.
 
@@ -51,26 +50,15 @@ To start creating a post, tap on the <mark style="color:yellow;">(icon)</mark> "
      * Rotate the photo counterclockwise using the rotate button.
      * Use the <mark style="color:purple;">**MO button**</mark> for AI-assisted editing (Note: The MO button is not available for video files).
    * **Video Editing**: Currently, specific video editing tools are not detailed here. Please use external tools for advanced video editing before uploading.
-
-<!---->
-
-1. **Tagging Friends**: Tap the <mark style="color:purple;">**Friend Tags**</mark> button on a thumbnail to tag friends. A list of 11 frequently interacted friends will appear, or you can search for others via the search bar. You can tag up to 10 friends across all media in a single post. Once tagging is complete, the number of tagged friends will display on the thumbnail.
-2. **Removing Media**: To remove a media file, tap the <mark style="color:purple;">**Remove Button**</mark> on the top right of the thumbnail or long-press and drag the thumbnail to the bin icon that appears.
-
-**Finalizing Your Post**
-
-* After adding and editing your media, finalize your post by adding any final text or settings and then publish to share with your community.
-
-\
-
+4. **Tagging Friends**: Tap the <mark style="color:purple;">**Friend Tags**</mark> button on a thumbnail to tag friends. A list of 11 frequently interacted friends will appear, or you can search for others via the search bar. You can tag up to 10 friends across all media in a single post. Once tagging is complete, the number of tagged friends will display on the thumbnail.
+5. **Removing Media**: To remove a media file, tap the <mark style="color:purple;">**Remove Button**</mark> on the top right of the thumbnail or long-press and drag the thumbnail to the bin icon that appears.
+6. After adding and editing your media, finalize your post by adding any final text or settings and then publish to share with your community.
 
 </details>
 
 <details>
 
-<summary></summary>
-
-
+<summary><strong>Add Voice Recording</strong></summary>
 
 **Permissions**
 
@@ -78,8 +66,8 @@ Ensure the app has access to your device’s microphone before you start recordi
 
 **Starting an Audio Recording**
 
-1. **Access Audio Recording**: In the Post Creation page, tap the "Audio Recording" option on the selection bar to go to the Voice Recording screen.
-2. **Recording Duration**: By default, you can record up to 22 minutes. Extend this to 60 minutes by toggling the extension button, which will segment the recording into three parts of 22 minutes each.
+* **Access Audio Recording**: In the Post Creation page, tap the "Audio Recording" option on the selection bar to go to the Voice Recording screen.
+* **Recording Duration**: By default, you can record up to 22 minutes. Extend this to 60 minutes by toggling the extension button, which will segment the recording into three parts of 22 minutes each.
 
 **Using the Recording Controls**
 
@@ -90,7 +78,7 @@ Ensure the app has access to your device’s microphone before you start recordi
 **Managing Audio Clips**
 
 * **View Clips**: Audio clips are displayed in a carousel view. Swipe left or right to navigate between clips.
-* **Playback Controls**: Tap the play button to listen to a clip, and the pause button to stop. The recording's playback includes an animation around your profile picture.
+* **Playback Controls**: Tap the <mark style="color:yellow;">(icon)</mark> play button to listen to a clip, and the <mark style="color:yellow;">(icon)</mark> pause button to stop. The recording's playback includes an animation around your profile picture.
 * **Adjust Sound**: Use the mute/unmute buttons to control the audio volume during playback.
 
 **Enhancing Your Audio Post**
