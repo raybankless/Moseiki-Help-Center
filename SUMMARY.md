@@ -15,6 +15,8 @@
 * [Share a Post](moseiki-features/share-a-post/README.md)
   * [Create a Post](moseiki-features/share-a-post/create-a-post.md)
 
-## 🌎 Navigation
+## 🌎 Explore Moseiki
 
-* [Page 2](navigation/page-2.md)
+* [Navigation](explore-moseiki/navigation.md)
+* [Search and Explore](explore-moseiki/search-and-explore.md)
+* [How Timeline Works](explore-moseiki/how-timeline-works.md)
