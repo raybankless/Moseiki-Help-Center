@@ -4,6 +4,14 @@ The Moseiki App Feed is designed to let you share with and connect to the people
 
 <details>
 
+<summary>Posts you see in your Moseiki Timeline. -WIP</summary>
+
+
+
+</details>
+
+<details>
+
 <summary>How to share a post?</summary>
 
 Tap the **Share** button to open the “Share Post” bottom sheet.
@@ -115,5 +123,21 @@ Click the <mark style="color:purple;">**Comment**</mark> button to open the Comm
 To add your response, type your text, add a GIF, or include stickers, then click <mark style="color:purple;">**Reply**</mark> to post it.
 
 When done, swipe the bottom sheet down to close it.
+
+</details>
+
+<details>
+
+<summary>How to Tag or Mention a user? -WIP</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>ETC ...</summary>
+
+
 
 </details>
