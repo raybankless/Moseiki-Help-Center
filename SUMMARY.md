@@ -10,10 +10,10 @@
 
 ## 🪄 Moseiki Features
 
-* [Your Profile](moseiki-features/your-profile/README.md)
-  * [Editing Your Profile](moseiki-features/your-profile/editing-your-profile.md)
 * [Share a Post](moseiki-features/share-a-post/README.md)
   * [Create a Post](moseiki-features/share-a-post/create-a-post.md)
+* [Create a Memory](moseiki-features/create-a-memory.md)
+* [Page](moseiki-features/page.md)
 
 ## 🌎 Explore Moseiki
 

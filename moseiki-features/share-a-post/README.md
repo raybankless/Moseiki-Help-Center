@@ -9,3 +9,5 @@ Learn how to:
 * Add a location or apply a filter.
 * Choose who can see what you share.
 * Manage tags for your photos and videos.
+
+<mark style="color:orange;">**Note:**</mark> Posts on Moseiki stay live for 22 days. Two days before a post expires, you’ll receive a notification giving you the option to [convert the post into a memory](../create-a-memory.md#convert-a-post-to-memory).

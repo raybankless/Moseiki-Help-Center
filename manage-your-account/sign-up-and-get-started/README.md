@@ -4,7 +4,7 @@ Creating a Moseiki account allows you to create and share photos and videos with
 
 Learn how to:
 
-* [Create a Moseiki account](create-a-moseiki-account.md) and [update your profile information](../../moseiki-features/your-profile/editing-your-profile.md).
+* [Create a Moseiki account](create-a-moseiki-account.md) and [update your profile information](broken-reference).
 * [Navigate the app](broken-reference).
 * Find people you know or people you might like to follow.
 
