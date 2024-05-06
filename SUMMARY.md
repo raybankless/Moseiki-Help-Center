@@ -19,6 +19,7 @@
 * [Create a Memory](moseiki-features/create-a-memory.md)
 * [Your Blockchain Wallet](moseiki-features/your-blockchain-wallet.md)
 * [Moseiki Id](moseiki-features/moseiki-id.md)
+* [Stories](moseiki-features/stories.md)
 
 ## 🌎 Explore Moseiki
 
