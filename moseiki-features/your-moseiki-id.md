@@ -1,2 +1,0 @@
-# Moseiki Id
-

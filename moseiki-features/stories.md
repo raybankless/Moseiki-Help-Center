@@ -1,4 +1,4 @@
-# Stories
+# Your Stories
 
 You can use Moseiki to create and share stories with your followers.
 

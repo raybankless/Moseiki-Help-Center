@@ -18,8 +18,8 @@
   * [Create a Post](moseiki-features/share-a-post/create-a-post.md)
 * [Create a Memory](moseiki-features/create-a-memory.md)
 * [Your Blockchain Wallet](moseiki-features/your-blockchain-wallet.md)
-* [Your Moseiki Id](moseiki-features/your-moseiki-id.md)
-* [Your Stories](moseiki-features/your-stories.md)
+* [Your Moseiki Id](moseiki-features/moseiki-id.md)
+* [Your Stories](moseiki-features/stories.md)
 
 ## 🌎 Explore Moseiki
 
