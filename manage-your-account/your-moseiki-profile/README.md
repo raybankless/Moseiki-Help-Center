@@ -7,7 +7,7 @@ On your profile page, you can:
 * [Customize your appearance](edit-your-profile.md) with a profile picture, personal information, and links.
 * Access and analyze your statistics, including number of posts, followers, following, likes, and more.
 * Manage your content through tabs for [Posts](navigate-your-content.md#posts-tab), [Stories](navigate-your-content.md#stories-tab), [Replies](navigate-your-content.md#replies-tab), and [Saved](navigate-your-content.md#saved-tab) items.
-* Use tools such as [Edit Profile](edit-your-profile.md), Add Friends, Share Profile, and manage your Wallet for a tailored experience.
+* Use tools such as [Edit Profile](edit-your-profile.md), Add Friends, Share Profile, and manage your [Wallet](../../moseiki-features/your-blockchain-wallet.md) for a tailored experience.
 * Explore the profile settings like&#x20;
   * All Decks?
   * Subscription

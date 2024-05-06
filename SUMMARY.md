@@ -9,6 +9,7 @@
 * [Your Moseiki Profile](manage-your-account/your-moseiki-profile/README.md)
   * [Profile Settings](manage-your-account/your-moseiki-profile/profile-settings.md)
   * [Edit your Profile](manage-your-account/your-moseiki-profile/edit-your-profile.md)
+  * [Add Friends](manage-your-account/your-moseiki-profile/add-friends.md)
   * [Navigate Your Content](manage-your-account/your-moseiki-profile/navigate-your-content.md)
 * [Log into Moseiki](manage-your-account/log-into-moseiki.md)
 
@@ -20,6 +21,7 @@
 * [Your Blockchain Wallet](moseiki-features/your-blockchain-wallet.md)
 * [Your Moseiki Id](moseiki-features/moseiki-id.md)
 * [Your Stories](moseiki-features/stories.md)
+* [AI Profile Picture Generation](moseiki-features/ai-profile-picture-generation.md)
 
 ## 🌎 Explore Moseiki
 

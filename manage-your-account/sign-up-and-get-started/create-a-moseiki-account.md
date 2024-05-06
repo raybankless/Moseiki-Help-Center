@@ -11,7 +11,7 @@
 8. Enter the confirmation code sent to your email address, then tap Next.
 9. Tap <mark style="color:purple;">Allow Notifications</mark>.
 10. Choose your interests and tap Next.
-11. Select a profile picture or create one with AI.
+11. Select a profile picture or [create one with AI](../../moseiki-features/ai-profile-picture-generation.md).
 12. Fill in your profile details and tap Next.&#x20;
 
 ***
