@@ -6,8 +6,8 @@
 
 * [Sign up and Get Started](manage-your-account/sign-up-and-get-started/README.md)
   * [Create a Moseiki Account](manage-your-account/sign-up-and-get-started/create-a-moseiki-account.md)
+  * [Account Settings](manage-your-account/sign-up-and-get-started/account-settings.md)
 * [Your Moseiki Profile](manage-your-account/your-moseiki-profile/README.md)
-  * [Profile Settings](manage-your-account/your-moseiki-profile/profile-settings.md)
   * [Edit your Profile](manage-your-account/your-moseiki-profile/edit-your-profile.md)
   * [Add Friends](manage-your-account/your-moseiki-profile/add-friends.md)
   * [Navigate Your Content](manage-your-account/your-moseiki-profile/navigate-your-content.md)
