@@ -40,7 +40,13 @@ To start creating a story, tap on the (icon) "Add Story" located on your screen.
 
 <summary>Add a location, drawings, images, links or apply filters.</summary>
 
-
+1. Tap the (icon) “Create Text” to add text to your story.
+2. Tap the (icon) “Effects” to apply visual effects to your story.
+3. Tap the (icon) “Drawing” to insert doodles to your story.
+4. Tap the (icon) “Add Image” to pick a media from device roll to your story.
+5. Tap the (icon) “Poll” to include a poll in your story.
+6. Tap the (icon) “More” to include GIFs in your story
+7. Tap the (icon) “Link” to include a link in your story.
 
 </details>
 
@@ -48,6 +54,7 @@ To start creating a story, tap on the (icon) "Add Story" located on your screen.
 
 <summary>Manage tags for your stories</summary>
 
-
+1. Tap the (icon) “Location” to add and manage the location tag of your story.
+2. Tap the (icon) “Tag People” to add or manage tags in your story.
 
 </details>
