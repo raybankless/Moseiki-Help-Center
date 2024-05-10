@@ -7,6 +7,7 @@
 * [Sign up and Get Started](manage-your-account/sign-up-and-get-started/README.md)
   * [Create a Moseiki Account](manage-your-account/sign-up-and-get-started/create-a-moseiki-account.md)
   * [Account Settings](manage-your-account/sign-up-and-get-started/account-settings.md)
+  * [Account Center](manage-your-account/sign-up-and-get-started/account-center.md)
 * [Your Moseiki Profile](manage-your-account/your-moseiki-profile/README.md)
   * [Edit your Profile](manage-your-account/your-moseiki-profile/edit-your-profile.md)
   * [Add Friends](manage-your-account/your-moseiki-profile/add-friends.md)
@@ -19,7 +20,7 @@
   * [Create a Post](moseiki-features/share-a-post/create-a-post.md)
 * [Create a Memory](moseiki-features/create-a-memory.md)
 * [Your Blockchain Wallet](moseiki-features/your-blockchain-wallet.md)
-* [Your Moseiki Id](moseiki-features/moseiki-id.md)
+* [Your Moseiki Handle](moseiki-features/your-moseiki-handle.md)
 * [Your Stories](moseiki-features/stories.md)
 * [AI Profile Picture Generation](moseiki-features/ai-profile-picture-generation.md)
 

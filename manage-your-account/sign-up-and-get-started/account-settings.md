@@ -8,7 +8,7 @@ Begin on your profile screen and click on the hamburger menu icon (three horizon
 
 **Within the Account Settings, you'll find several sections:**
 
-* **Subscriptions:** Tap here to purchase a [Moseiki ID](../../moseiki-features/moseiki-id.md) and become a premium subscriber, unlocking additional features.
+* **Subscriptions:** Tap here to purchase a [Moseiki ID](../../moseiki-features/your-moseiki-handle.md) and become a premium subscriber, unlocking additional features.
 * **Account Centre:** Use this option to switch between linked accounts or edit your profile details.
 * **Notifications:** Modify your notification preferences to manage how you receive alerts.
 * **My QR Code:** Display or share your personal QR Code, which provides a direct link to your profile.
@@ -49,7 +49,7 @@ To change your language preferences in the Moseiki app, follow these simple step
 1. **Open the Moseiki app** and navigate to your profile screen.
 2. Tap on the **hamburger menu** (three horizontal lines) usually located in the top corner of the screen.
 3. Select **Account Settings** from the expanded menu options.
-4. Scroll down to find <mark style="color:purple;">**Language**</mark> and tap on it.
+4. Scroll down to find <mark style="color:purple;">Language</mark> and tap on it.
 5. You’ll see a list of available languages. Select the language you prefer to use for the app.
 
 Once you've selected your preferred language, the app interface will update to reflect your choice. This change will affect all menus, buttons, and navigational elements within the app.
@@ -67,7 +67,7 @@ To switch between accounts or add a new account in the Moseiki app, follow these
 3. Choose **Account Settings** from the menu.
 4. Look for and select **Switch Account**.
 5. Here, you will see a list of accounts you’ve previously logged into. You can switch by selecting the account you wish to use.
-6. To add a new account, click on the <mark style="color:purple;">**Add Moseiki Account**</mark> button and follow the prompts to log in or create a new account.
+6. To add a new account, click on the <mark style="color:purple;">Add Moseiki Account</mark> button and follow the prompts to log in or create a new account.
 
 This feature allows you to manage multiple Moseiki accounts conveniently, either switching between them or adding new ones as needed.
 
