@@ -24,6 +24,6 @@ There are two privacy options you can choose from:
 
 **Verify Moseiki Handle:**
 
-If you have not purchased your Moseiki Handle, clicking on verify will direct you to the purchase page.
+If you have not purchased your [Moseiki Handle](../../moseiki-features/moseiki-handle.md), clicking on verify will direct you to the purchase page.
 
 If the handle is still unverified and another user attempts to verify the same handle, you will be notified both in-app and via email. You will have one day to verify your handle. If you do not verify it within this timeframe, the handle ownership will be transferred to the new verifier, and you will be assigned a new handle that is close to your original one, such as changing from 'raybankless' to 'raybankless1'.

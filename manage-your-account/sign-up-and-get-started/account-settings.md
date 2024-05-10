@@ -4,12 +4,12 @@
 
 Accessing your account settings in the Moseiki app allows you to customize and control various aspects of your user experience. Here’s how to navigate these settings:
 
-Begin on your profile screen and click on the hamburger menu icon (three horizontal lines), usually located in the top corner of the screen.
+Begin on your profile screen and click on the hamburger menu icon (three horizontal lines), usually located in the top corner of the screen.&#x20;
 
 **Within the Account Settings, you'll find several sections:**
 
-* **Subscriptions:** Tap here to purchase a [Moseiki ID](../../moseiki-features/your-moseiki-handle.md) and become a premium subscriber, unlocking additional features.
-* **Account Centre:** Use this option to switch between linked accounts or edit your profile details.
+* **Subscriptions:** Tap here to purchase a [Moseiki ID](../../moseiki-features/moseiki-handle.md) and become a premium subscriber, unlocking additional features.
+* **Account Center:** Use this option to switch between linked accounts or edit your profile details.
 * **Notifications:** Modify your notification preferences to manage how you receive alerts.
 * **My QR Code:** Display or share your personal QR Code, which provides a direct link to your profile.
 * **Analytics:** View statistics related to your posts, including follower counts, shares, and general engagement.
