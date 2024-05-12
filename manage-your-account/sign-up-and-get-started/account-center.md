@@ -3,7 +3,7 @@
 To make changes to your account settings such as your name, profile picture, date of birth, and location, or to adjust your account privacy settings, follow these steps:
 
 1. **Open the Moseiki app** and go to your profile screen.
-2. Tap on the **hamburger menu** (three horizontal lines), typically located in the top corner of the screen.
+2. Tap on the ![](<../../.gitbook/assets/Group 410.png>) <mark style="color:purple;">hamburger menu</mark> located in the top right corner of the screen.
 3. Select **Account Centre** from the menu options.
 
 **Within the Account Centre, you can make various changes:**
@@ -24,6 +24,6 @@ There are two privacy options you can choose from:
 
 **Verify Moseiki Handle:**
 
-If you have not purchased your [Moseiki Handle](../../moseiki-features/moseiki-handle.md), clicking on verify will direct you to the purchase page.
+You can verify your Moseiki handle buy purchasing it in the app. If you have not purchased your [Moseiki Handle](../../moseiki-features/moseiki-handle.md), clicking on verify will direct you to the purchase page.
 
 If the handle is still unverified and another user attempts to verify the same handle, you will be notified both in-app and via email. You will have one day to verify your handle. If you do not verify it within this timeframe, the handle ownership will be transferred to the new verifier, and you will be assigned a new handle that is close to your original one, such as changing from 'raybankless' to 'raybankless1'.

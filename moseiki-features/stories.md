@@ -1,4 +1,4 @@
-# Your Stories
+# Stories
 
 You can use Moseiki to create and share stories with your followers.
 
@@ -6,7 +6,7 @@ You can use Moseiki to create and share stories with your followers.
 
 <summary>Create and share a Story</summary>
 
-To start creating a story, tap on the (icon) "Add Story" located on your screen.
+Use the [Action Button](../explore-moseiki/navigation.md#action-button) and select ![](../.gitbook/assets/storyIcon.svg) <mark style="color:purple;">Create Stroy</mark>
 
 ### User Permissions
 
@@ -18,35 +18,25 @@ To start creating a story, tap on the (icon) "Add Story" located on your screen.
 
 **Creating Your Story**
 
-1. **Record Video or Capture Image:** You can use the (icon) “Record” the bottom of your screen to capture an image by firmly tapping it, or you can tap and hold for recording.
-2. **Add Sound:** Tap the (icon) “Add Sound” at the top of your screen to add music of your choice to your story. You can use the Browse tab to pick your favorite sound from what is trending or you can explore playlists categorized by their genre. In the For You tab, you’ll see suggestions based on your previous picks. Use the Favorited tab to pick from your bookmarked items.
-3. **Add from Device:** You can pick a media from your device gallery by tapping the (icon) “Add From Device” on the lover left of your screen. Once tapped, you can pick the media from your roll.
-4. **Story Controls:** On the left of your screen y, you can use the (icon) “Flash” to turn on or off your flash while recording or capturing. (Icon) “Boomerang” lets you record a loop. (icon) “Dual Camera” lets you record or capture using the front and the back camera of your device. You can use the (Icon) “Drawing” to insert doodles to your stories. (icon) lets you set a timer before you start your record or capture. (icon) “Change Camera” lets you swap cameras between front and the back of your device.
-5. **More Story Features:**
-   1. Tap the (icon) “Create Text” to add text to your story.
-   2. Tap the (icon) “Effects” to apply visual effects to your story.
-   3. Tap the (icon) “Drawing” to insert doodles to your story.
-   4. Tap the (icon) “Add Image” to pick a media from device roll to your story.
-   5. Tap the (icon) “Poll” to include a poll in your story.
-   6. Tap the (icon) “Tag People” to add or manage tags in your story.
-   7. Tap the (icon) “More” to #do what exactly?
-   8. Tap the (icon) “Link” to include a link in your story.
-6. **Share your Story:** Once ready to share your created story with your audience, tap the (icon) “Share”.
-7. **Share your Story as an NFT:** #no details provided for this flow
+1. **Record Video or Capture Image:** You can use <img src="../.gitbook/assets/Ellipse 14.png" alt="" data-size="line"> <mark style="color:purple;">Record</mark> at the bottom of your screen to capture an image by firmly tapping it, or you can tap and hold to record a video.
+2. **Add Sound:** Tap ![](../.gitbook/assets/Vector.svg) <mark style="color:purple;">Add Sound</mark> at the top of your screen to add music of your choice to your story. You can use the Browse tab to pick your favorite sound from what is trending or you can explore playlists categorized by their genre. In the For You tab, you’ll see suggestions based on your previous picks. Use the Favorited tab to pick from your bookmarked items.
+3. **Add from Device:** You can pick a media from your device gallery by tapping <mark style="color:purple;">Add From Device</mark> on the lover left of your screen. Once tapped, you can pick the media from your roll.
+   1. **Story Controls:** On the right side of your screen, you can use ![](<../.gitbook/assets/Frame 6924.png>) <mark style="color:purple;">Flash</mark> to turn on or off your flash while recording or capturing. ![](<../.gitbook/assets/Vector (1).png>) <mark style="color:purple;">Boomerang</mark> lets you record a loop. ![](<../.gitbook/assets/Vector (2).png>) <mark style="color:purple;">Dual Camera</mark> lets you record or capture using the front and the back camera of your device. You can use the ![](<../.gitbook/assets/gesture\_FILL0\_wght400\_GRAD0\_opsz48 1 (1).png>)<mark style="color:purple;">Drawing</mark> to insert doodles to your stories. ![](<../.gitbook/assets/Vector (3).png>)<mark style="color:purple;">Timer</mark> lets you set a timer before you start your record or capture. <img src="../.gitbook/assets/Vector.png" alt="" data-size="original"> <mark style="color:purple;">Change Camera</mark> lets you swap cameras between front and the back of your device.
+4. **Share your Story:** Once ready to share your created story with your audience, tap the <mark style="color:purple;">Share</mark> button.
 
 </details>
 
 <details>
 
-<summary>Add a location, drawings, images, links or apply filters.</summary>
+<summary>Add location, drawings, images, links or apply filters to your stories.</summary>
 
-1. Tap the (icon) “Create Text” to add text to your story.
-2. Tap the (icon) “Effects” to apply visual effects to your story.
-3. Tap the (icon) “Drawing” to insert doodles to your story.
-4. Tap the (icon) “Add Image” to pick a media from device roll to your story.
-5. Tap the (icon) “Poll” to include a poll in your story.
-6. Tap the (icon) “More” to include GIFs in your story
-7. Tap the (icon) “Link” to include a link in your story.
+1. Tap ![](../.gitbook/assets/Aa.png) <mark style="color:purple;">Create Text</mark> to add text to your story.
+2. Tap ![](../.gitbook/assets/Group.png) <mark style="color:purple;">Effects</mark> to apply visual effects to your story.
+3. Tap ![](<../.gitbook/assets/gesture\_FILL0\_wght400\_GRAD0\_opsz48 1.png>)<mark style="color:purple;">Drawing</mark> to insert doodles to your story.
+4. Tap <img src="../.gitbook/assets/Layer 15.png" alt="" data-size="original"> <mark style="color:purple;">Add Image</mark> to pick a media from device roll to your story.
+5. Tap ![](<../.gitbook/assets/Frame 6877.png>) <mark style="color:purple;">Poll</mark> to include a poll in your story.
+6. Tap ![](<../.gitbook/assets/Group (2).png>) <mark style="color:purple;">More</mark> to include GIFs in your story
+7. Tap ![](<../.gitbook/assets/Vector (10).png>) <mark style="color:purple;">Link</mark> to include a link in your story.
 
 </details>
 
@@ -54,7 +44,7 @@ To start creating a story, tap on the (icon) "Add Story" located on your screen.
 
 <summary>Manage tags for your stories</summary>
 
-1. Tap the (icon) “Location” to add and manage the location tag of your story.
-2. Tap the (icon) “Tag People” to add or manage tags in your story.
+1. Tap ![](<../.gitbook/assets/Frame 180.png>) <mark style="color:purple;">Location</mark> to add and manage the location tag of your story.
+2. Tap ![](<../.gitbook/assets/Group (3).png>) <mark style="color:purple;">Tag People</mark> to add or manage tags in your story.
 
 </details>

@@ -4,7 +4,7 @@
 
 Accessing your account settings in the Moseiki app allows you to customize and control various aspects of your user experience. Here’s how to navigate these settings:
 
-Begin on your profile screen and click on the hamburger menu icon (three horizontal lines), usually located in the top corner of the screen.&#x20;
+Begin on your profile screen and click on the ![](<../../.gitbook/assets/Group 410.png>)<mark style="color:purple;">hamburger menu</mark> icon located in the top right corner of the screen.&#x20;
 
 **Within the Account Settings, you'll find several sections:**
 

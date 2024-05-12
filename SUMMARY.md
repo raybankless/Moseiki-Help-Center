@@ -9,6 +9,7 @@
   * [Account Settings](manage-your-account/sign-up-and-get-started/account-settings.md)
   * [Account Center](manage-your-account/sign-up-and-get-started/account-center.md)
   * [Account Security](manage-your-account/sign-up-and-get-started/account-security.md)
+  * [Account Recovery](manage-your-account/sign-up-and-get-started/account-recovery.md)
 * [Your Moseiki Profile](manage-your-account/your-moseiki-profile/README.md)
   * [Edit your Profile](manage-your-account/your-moseiki-profile/edit-your-profile.md)
   * [Add Friends](manage-your-account/your-moseiki-profile/add-friends.md)

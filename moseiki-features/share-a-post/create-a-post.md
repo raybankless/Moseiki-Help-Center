@@ -15,18 +15,18 @@ To start creating a post, tap on the <mark style="color:yellow;">(icon)</mark> "
    * **Public**: Visible to anyone on Moseiki.
    * **Private (or Close Friends)**: Visible only to your friends.
 3. **Compose Your Text**: You can type up to 222 characters. Emojis count as 2 characters each. The app will automatically suggest AI-generated photo thumbnails when you input a period (.) in your text.
-4. **Add Media and More**: Below the text area, use the selection bar to add different types of content to your post. Here’s what you can include: <mark style="color:yellow;">(icon for all)</mark>
-   * [**Add Media From Device Storage/Media Library**](https://app.gitbook.com/o/NopSIKLXcyXkMu2SCX9Y/s/ERa0omXloOunEjWXbqWy/\~/changes/22/moseiki-features/share-a-post/create-a-post#add-media-from-device-storage-media-library)
-   * **Add GIF from Giphy**
-   * **Tag Friends**
-   * [**Add Voice Recording**](https://app.gitbook.com/o/NopSIKLXcyXkMu2SCX9Y/s/ERa0omXloOunEjWXbqWy/\~/changes/22/moseiki-features/share-a-post/create-a-post#add-voice-recording) (either from an audio file or use the in-app recorder)
-   * **Add Music from Sound Stripe**
-   * **Add Poll**
-   * **Add Location**
+4. **Add Media and More**: Below the text area, use the selection bar to add different types of content to your post. Here’s what you can include:
+   * ![](<../../.gitbook/assets/Frame (1).png>)[**Add Media From Device Storage/Media Library**](https://app.gitbook.com/o/NopSIKLXcyXkMu2SCX9Y/s/ERa0omXloOunEjWXbqWy/\~/changes/22/moseiki-features/share-a-post/create-a-post#add-media-from-device-storage-media-library)
+   * ![](<../../.gitbook/assets/Vector (7).png>) **Add GIF from Giphy**
+   * ![](../../.gitbook/assets/tagPeopleIcon.svg) **Tag Friends**
+   * ![](<../../.gitbook/assets/Frame 6878.png>) [**Add Voice Recording**](https://app.gitbook.com/o/NopSIKLXcyXkMu2SCX9Y/s/ERa0omXloOunEjWXbqWy/\~/changes/22/moseiki-features/share-a-post/create-a-post#add-voice-recording)
+   * <img src="../../.gitbook/assets/Vector.svg" alt="" data-size="line"> **Add Music from Sound Stripe**
+   * ![](<../../.gitbook/assets/Frame 6877.png>) **Add Poll**
+   * ![](<../../.gitbook/assets/Frame 180.png>)**Add Location**
 5. **Content Compatibility**: When you choose a type of media, incompatible options will be faded out on the selection bar. Here’s a quick compatibility guide:
    * **Media from Device and GIFs**: Cannot be added together.
    * **Polls**: Cannot include GIFs, Media from the device, or Voice Recordings but can include Music and allow tagging friends and location.
-6. Once you have added your desired content, review your post to ensure everything is as you want it. When ready, tap the post button to share your creation with the community.
+6. Once you have added your desired content, review your post to ensure everything is as you want it. When ready, tap the <mark style="color:purple;">Post</mark> button to share your creation with the community.
 
 **Content Restrictions**: Please be aware that posts containing explicit violence, sexual content, or support for terrorism are prohibited.
 
@@ -40,10 +40,10 @@ To start creating a post, tap on the <mark style="color:yellow;">(icon)</mark> "
 
 **Uploading Media**
 
-1. **Navigate to Media Upload**: Start creating a post and tap on the "Add Media From Device Storage/Media Library" option in the selection bar on the Post Creation page.
+1. **Navigate to Media Upload**: Start creating a post and tap on the <mark style="color:purple;">Add Media From Device Storage/Media Library</mark> option in the selection bar on the Post Creation page.
 2. **Selecting Media**: You can add up to 10 images or videos per post. Once selected, media files will appear in a thumbnail carousel at the bottom of the screen for easy viewing and management.
 3. **Editing Media**:
-   * **Photo Editing**: Tap the Brush button on any photo thumbnail to open the Photo Editing Tool. Here, you can: <mark style="color:yellow;">(icons for all)</mark>
+   * **Photo Editing**: Tap the /Brush button on any photo thumbnail to open the Photo Editing Tool. Here, you can:
      * Apply filters from a carousel of pre-defined options.
      * Crop the photo using the Crop Tool.
      * Adjust orientation with the displayed orientation buttons.
