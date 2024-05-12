@@ -1,6 +1,6 @@
 # Create a Post
 
-To start creating a post, tap on the <mark style="color:yellow;">(icon)</mark> "Action Button" located on your screen. You can either tap it briefly or long-press to select the <mark style="color:yellow;">(icon)</mark> “Post Creation” option from the menu.
+To start creating a post, tap on the ![](<../../.gitbook/assets/arti (1).png>) <mark style="color:purple;">Action Button</mark> located on your screen. You can either tap it briefly or long-press to select the ![](../../.gitbook/assets/pen.png) <mark style="color:purple;">Post Creation</mark> option from the menu.
 
 **User Permissions**
 
@@ -32,7 +32,7 @@ To start creating a post, tap on the <mark style="color:yellow;">(icon)</mark> "
 
 <details>
 
-<summary>A<strong>dd Media From Device Storage/Media Library</strong></summary>
+<summary>How to a<strong>dd media from device storage/media library to a post?</strong></summary>
 
 **Access and Permissions**
 
@@ -43,12 +43,15 @@ To start creating a post, tap on the <mark style="color:yellow;">(icon)</mark> "
 1. **Navigate to Media Upload**: Start creating a post and tap on the <mark style="color:purple;">Add Media From Device Storage/Media Library</mark> option in the selection bar on the Post Creation page.
 2. **Selecting Media**: You can add up to 10 images or videos per post. Once selected, media files will appear in a thumbnail carousel at the bottom of the screen for easy viewing and management.
 3. **Editing Media**:
-   * **Photo Editing**: Tap the /Brush button on any photo thumbnail to open the Photo Editing Tool. Here, you can:
+   * **Photo Editing**: Tap the ![](<../../.gitbook/assets/Vector (13).png>) <mark style="color:purple;">Brush Button</mark> on any photo thumbnail to open the Photo Editing Tool. Here, you can:
      * Apply filters from a carousel of pre-defined options.
-     * Crop the photo using the Crop Tool.
-     * Adjust orientation with the displayed orientation buttons.
-     * Rotate the photo counterclockwise using the rotate button.
-     * Use the <mark style="color:purple;">**MO button**</mark> for AI-assisted editing (Note: The MO button is not available for video files).
+     * Tap the ![](<../../.gitbook/assets/AutoColor (1).png>)<mark style="color:purple;">Autocolor Button</mark> to magically color your images.
+     * Tap the ![](<../../.gitbook/assets/Vector (9).png>) Crop Tool;
+       * Adjust orientation with the orientation buttons. Select ![](<../../.gitbook/assets/Vector (10).png>) for Portrait, ![](<../../.gitbook/assets/Vector (11).png>) for Landscape and ![](<../../.gitbook/assets/Vector (12).png>) for a square image.
+       * Rotate the photo counterclockwise using the ![](<../../.gitbook/assets/Frame 7661.png>) <mark style="color:purple;">Rotate Button</mark>.
+     *   Use the ![](<../../.gitbook/assets/Group (4).png>) <mark style="color:purple;">**MO button**</mark> for AI-assisted editing.
+
+         <mark style="color:orange;">Note</mark>: MO is not available for video files.
    * **Video Editing**: Currently, specific video editing tools are not detailed here. Please use external tools for advanced video editing before uploading.
 4. **Tagging Friends**: Tap the <mark style="color:purple;">**Friend Tags**</mark> button on a thumbnail to tag friends. A list of 11 frequently interacted friends will appear, or you can search for others via the search bar. You can tag up to 10 friends across all media in a single post. Once tagging is complete, the number of tagged friends will display on the thumbnail.
 5. **Removing Media**: To remove a media file, tap the <mark style="color:purple;">**Remove Button**</mark> on the top right of the thumbnail or long-press and drag the thumbnail to the bin icon that appears.
@@ -58,7 +61,7 @@ To start creating a post, tap on the <mark style="color:yellow;">(icon)</mark> "
 
 <details>
 
-<summary><strong>Add Voice Recording</strong></summary>
+<summary>How to a<strong>dd voice recording to a post?</strong></summary>
 
 **Permissions**
 
@@ -89,5 +92,45 @@ Ensure the app has access to your device’s microphone before you start recordi
 **Finalizing Your Post**
 
 * After customizing your audio clips and cover visual, complete your post by adding any final text or settings, then publish to share your recording with the community.
+
+</details>
+
+<details>
+
+<summary>How to tag my friends in a post?</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>How to add a GIF to a post?</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>How to add music to a post?</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>How to add a poll to a post?</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>How to add a location to a post?</summary>
+
+
 
 </details>

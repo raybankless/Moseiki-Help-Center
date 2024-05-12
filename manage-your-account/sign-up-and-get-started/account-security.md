@@ -44,7 +44,7 @@ In the [Account Security](account-security.md), tap on <mark style="color:purple
 Choose Your Authentication Method:
 
 * **Touch ID or Face ID:**
-  1. Select ![](<../../.gitbook/assets/Vector (4).png>)Touch ID or ![](<../../.gitbook/assets/Vector (5).png>) Face ID based on your device capability.
+  1. Select ![](<../../.gitbook/assets/Vector (4) (1).png>)Touch ID or ![](<../../.gitbook/assets/Vector (5).png>) Face ID based on your device capability.
   2. Follow the prompts to scan your fingerprint or face.
   3. Confirm the setup by entering your account password.
 * **Secret Key:**
