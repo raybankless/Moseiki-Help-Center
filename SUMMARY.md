@@ -4,12 +4,12 @@
 
 ## Manage Your Account
 
-* [Sign up and Get Started](manage-your-account/sign-up-and-get-started/README.md)
-  * [Create a Moseiki Account](manage-your-account/sign-up-and-get-started/create-a-moseiki-account.md)
-  * [Account Settings](manage-your-account/sign-up-and-get-started/account-settings.md)
-  * [Account Center](manage-your-account/sign-up-and-get-started/account-center.md)
-  * [Account Security](manage-your-account/sign-up-and-get-started/account-security.md)
-  * [Account Recovery](manage-your-account/sign-up-and-get-started/account-recovery.md)
+* [Sign up and Get Started](manage-your-account/sign-up-and-get-started.md)
+* [Create a Moseiki Account](manage-your-account/create-a-moseiki-account/README.md)
+  * [Account Recovery](manage-your-account/create-a-moseiki-account/account-recovery.md)
+  * [Account Security](manage-your-account/create-a-moseiki-account/account-security.md)
+  * [Account Center](manage-your-account/create-a-moseiki-account/account-center.md)
+  * [Account Settings](manage-your-account/create-a-moseiki-account/account-settings.md)
 * [Your Moseiki Profile](manage-your-account/your-moseiki-profile/README.md)
   * [Edit your Profile](manage-your-account/your-moseiki-profile/edit-your-profile.md)
   * [Add Friends](manage-your-account/your-moseiki-profile/add-friends.md)
