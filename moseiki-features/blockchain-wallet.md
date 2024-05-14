@@ -2,21 +2,21 @@
 
 Moseiki Wallet is one of the core components of the Moseiki App, enabling users to manage their activity in the application.
 
-Moseiki Wallet shows the functions below to the users.
+Tap the ![](<../.gitbook/assets/wallet\_FILL0\_wght400\_GRAD0\_opsz48 1.png>)<mark style="color:purple;">Wallet</mark> in your profile view to access your wallet. Moseiki Wallet shows the functions below to the users.
 
-* \[icon] Account Balance
-* \[icon] Deposit
-* \[icon] Send
-* \[icon] Receive
-* \[icon] Scan
-* \[icon] Recent Collectibles
-* \[icon]Transaction History
+* **Account Balance:** Displays the current balance in your wallet. Change the currency by the Currency Dropdown on the top right corner of the page.
+* ![](<../.gitbook/assets/Frame (2).png>) **Deposit:** Allows you to [add funds to your wallet](blockchain-wallet.md#how-to-deposit-buy-crypto-currency).
+* ![](<../.gitbook/assets/Frame (3).png>) **Send:** Enables you to [send funds to others](blockchain-wallet.md#how-to-send-currency-on-chain).
+* ![](<../.gitbook/assets/Frame (4).png>)**Receive:** Provides details for [receiving funds into your wallet](blockchain-wallet.md#how-to-receive-currency-on-chain).
+* ![](<../.gitbook/assets/Frame (5).png>) **Scan:** Use your device’s camera to [scan QR codes for transactions](blockchain-wallet.md#how-to-scan-a-qr-code-to-get-the-address).
+* **Recent Collectibles:** Shows the latest digital collectibles added to your wallet.
+* **Transaction History:** Provides a record of all your past transactions.
 
 <details>
 
 <summary>How to create a Moseiki Wallet?</summary>
 
-
+Your Moseiki Wallet is automatically created during the sign-up process. Each account is limited to one wallet; additional wallets are currently not supported by Moseiki.
 
 </details>
 
@@ -68,7 +68,7 @@ Click on \[icon] Receive to receive and share your wallet address in:
 
 <summary>How to scan a QR code to get the address?</summary>
 
-Click on \[icon] Scan to scan QR Code of the recipient’s address or a collection address.
+Click on ![](<../.gitbook/assets/Frame (5).png>) <mark style="color:purple;">Scan</mark> to scan QR Code of the recipient’s address or a collection address.
 
 </details>
 
@@ -76,7 +76,7 @@ Click on \[icon] Scan to scan QR Code of the recipient’s address or a collecti
 
 <summary>How to add passkesys to Moseiki Wallet?</summary>
 
-User can add one of the authentication methods for accessing their wallets.
+You can add one of the [authentication methods](../manage-your-account/sign-up-and-get-started/account-security.md#how-can-i-change-my-two-factor-authantication-2fa-settings) for accessing your wallet.
 
 * Touch ID
 * Face ID

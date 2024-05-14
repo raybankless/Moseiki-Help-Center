@@ -2,13 +2,9 @@
 
 You can use Moseiki to create and share stories with your followers.
 
-<details>
-
-<summary>Create and share a Story</summary>
-
 Use the [Action Button](../explore-moseiki/navigation.md#action-button) and select ![](../.gitbook/assets/storyIcon.svg) <mark style="color:purple;">Create Stroy</mark>
 
-### User Permissions
+#### User Permissions
 
 **Camera & Microphone Access:** In order to record video and audio or to capture an images for your stories, you must grant the Moseiki app access your device’s camera and microphone.
 
@@ -23,8 +19,6 @@ Use the [Action Button](../explore-moseiki/navigation.md#action-button) and sele
 3. **Add from Device:** You can pick a media from your device gallery by tapping <mark style="color:purple;">Add From Device</mark> on the lover left of your screen. Once tapped, you can pick the media from your roll.
    1. **Story Controls:** On the right side of your screen, you can use ![](<../.gitbook/assets/Frame 6924.png>) <mark style="color:purple;">Flash</mark> to turn on or off your flash while recording or capturing. ![](<../.gitbook/assets/Vector (1).png>) <mark style="color:purple;">Boomerang</mark> lets you record a loop. ![](<../.gitbook/assets/Vector (2).png>) <mark style="color:purple;">Dual Camera</mark> lets you record or capture using the front and the back camera of your device. You can use the ![](<../.gitbook/assets/gesture\_FILL0\_wght400\_GRAD0\_opsz48 1 (1).png>)<mark style="color:purple;">Drawing</mark> to insert doodles to your stories. ![](<../.gitbook/assets/Vector (3).png>)<mark style="color:purple;">Timer</mark> lets you set a timer before you start your record or capture. <img src="../.gitbook/assets/Vector (4).png" alt="" data-size="original"> <mark style="color:purple;">Change Camera</mark> lets you swap cameras between front and the back of your device.
 4. **Share your Story:** Once ready to share your created story with your audience, tap the <mark style="color:purple;">Share</mark> button.
-
-</details>
 
 <details>
 
