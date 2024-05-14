@@ -6,7 +6,9 @@
 
 * [Sign up and Get Started](manage-your-account/sign-up-and-get-started/README.md)
 * [Create a Moseiki Account](manage-your-account/sign-up-and-get-started/create-a-moseiki-account.md)
-  * [Account Settings](manage-your-account/sign-up-and-get-started/account-settings.md)
+  * [Account Settings](manage-your-account/create-a-moseiki-account/account-settings/README.md)
+    * [Notifications](manage-your-account/create-a-moseiki-account/account-settings/notifications.md)
+    * [Activity Log](manage-your-account/create-a-moseiki-account/account-settings/activity-log.md)
   * [Account Center](manage-your-account/sign-up-and-get-started/account-center.md)
   * [Account Security](manage-your-account/sign-up-and-get-started/account-security.md)
   * [Account Recovery](manage-your-account/sign-up-and-get-started/account-recovery.md)

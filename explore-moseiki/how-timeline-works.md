@@ -97,7 +97,7 @@ Tap the <mark style="color:purple;">Comment</mark> button on any post.
 
 * Scroll to see other users' comments.
 * To interact with comments:
-  * Click <mark style="color:purple;">Like</mark> to appreciate a comment.
+  * Click ![](<../.gitbook/assets/Frame 180 (3).png>)<mark style="color:purple;">Like</mark> to appreciate a comment.
   * Click <mark style="color:purple;">Reply</mark> to respond to a comment.
   * Click <mark style="color:purple;">Delete</mark> to remove your comment if needed.
 * To add your comment, type your text, select a GIF or sticker.
@@ -125,16 +125,8 @@ To add your response, type your text, add a ![](<../.gitbook/assets/Vector (7).p
 
 <details>
 
-<summary>How to Tag or Mention a user? -WIP</summary>
+<summary>How to Mention a user?</summary>
 
-
-
-</details>
-
-<details>
-
-<summary>ETC ...</summary>
-
-
+To mention a user, simply type the "@" symbol followed by their username (e.g., @username) in your post or comment. This will create a link to their profile and notify them that they've been mentioned.
 
 </details>

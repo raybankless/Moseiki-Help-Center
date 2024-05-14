@@ -8,4 +8,4 @@ On your profile page, you can:
 * Access and analyze your statistics, including number of posts, followers, following, likes, and more.
 * Manage your content through tabs for [Posts](navigate-your-content.md#posts-tab), [Stories](navigate-your-content.md#stories-tab), [Replies](navigate-your-content.md#replies-tab), and [Saved](navigate-your-content.md#saved-tab) items.
 * Use tools such as [Edit Profile](edit-your-profile.md), Add Friends, Share Profile, and manage your [Wallet](../../moseiki-features/blockchain-wallet.md) for a tailored experience.
-* Edit the [Account Settings](../sign-up-and-get-started/account-settings.md) like Subscribtions, Notifications and more.
+* Edit the [Account Settings](../create-a-moseiki-account/account-settings/) like Subscribtions, Notifications and more.
