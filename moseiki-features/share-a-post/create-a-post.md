@@ -13,7 +13,7 @@ To start creating a post, tap on the ![](<../../.gitbook/assets/arti (1).png>) <
 1. **User Identity**: At the top of the post creation page, your thumbnail and username are displayed, confirming the account you are posting from.
 2. **Choose Post Visibility**: Select who can see your post using the dropdown visibility selector:
    * **Public**: Visible to anyone on Moseiki.
-   * **Private (or Close Friends)**: Visible only to your friends.
+   * **Private**: Visible only to your friends.
 3. **Compose Your Text**: You can type up to 222 characters. Emojis count as 2 characters each. The app will automatically suggest AI-generated photo thumbnails when you input a period (.) in your text.
 4. **Add Media and More**: Below the text area, use the selection bar to add different types of content to your post. Here’s what you can include:
    * ![](<../../.gitbook/assets/Frame (1).png>)[**Add Media From Device Storage/Media Library**](https://app.gitbook.com/o/NopSIKLXcyXkMu2SCX9Y/s/ERa0omXloOunEjWXbqWy/\~/changes/22/moseiki-features/share-a-post/create-a-post#add-media-from-device-storage-media-library)

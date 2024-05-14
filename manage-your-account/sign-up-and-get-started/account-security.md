@@ -2,9 +2,9 @@
 
 To enhance the security of your Moseiki account through Two-Factor Authentication and other security settings, follow these steps:
 
-1. **Open the Moseiki app** and navigate to your profile screen.
-2. Tap on the ![](<../../.gitbook/assets/Group 410.png>) hamburger menu located in the top right corner of the screen.
-3. Choose **Security** from the menu options to access your security settings.
+1. Open the Moseiki app and navigate to your profile screen.
+2. Tap on the ![](<../../.gitbook/assets/Group 410.png>) <mark style="color:purple;">Hamburger Menu</mark> located in the top right corner of the screen.
+3. Choose <mark style="color:purple;">Security</mark> from the menu options to access your security settings.
 
 **Within the Security settings, you can configure various options:**
 
@@ -16,7 +16,7 @@ To enhance the security of your Moseiki account through Two-Factor Authenticatio
 **Phone Number:**
 
 * You can set up your phone number for 2FA, which adds an additional step of verification by sending a code to your mobile device whenever there is a login attempt.
-* Enter your phone number and confirm the setup by entering your password.
+* Enter your phone number and confirm the setup by entering the verification password that is sent to your phone.
 
 **Email:**
 

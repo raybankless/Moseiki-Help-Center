@@ -2,11 +2,11 @@
 
 To make changes to your account settings such as your name, profile picture, date of birth, and location, or to adjust your account privacy settings, follow these steps:
 
-1. **Open the Moseiki app** and go to your profile screen.
-2. Tap on the ![](<../../.gitbook/assets/Group 410.png>) <mark style="color:purple;">hamburger menu</mark> located in the top right corner of the screen.
-3. Select **Account Centre** from the menu options.
+1. **Open the Moseiki app and go to your profile screen.**
+2. Tap on the ![](<../../.gitbook/assets/Group 410.png>) <mark style="color:purple;">Hamburger Menu</mark> located in the top right corner of the screen.
+3. Select <mark style="color:purple;">Account Center</mark> from the menu options.
 
-**Within the Account Centre, you can make various changes:**
+**Within the Account Center, you can make various changes:**
 
 **Profile Updates:** Here, you can update your personal details, Name, Profile Picture, Date of Birth and Location. Note that you cannot change your email address through this interface.
 
