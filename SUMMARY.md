@@ -32,4 +32,5 @@
 
 * [Navigation](explore-moseiki/navigation.md)
 * [Search and Explore](explore-moseiki/search-and-explore.md)
+* [Discover](explore-moseiki/discover.md)
 * [How Timeline Works](explore-moseiki/how-timeline-works.md)
