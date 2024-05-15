@@ -12,12 +12,11 @@ Begin on your profile screen and click on the ![](<../../../.gitbook/assets/Grou
 * **Account Center:** [Make changes to your account details](../../sign-up-and-get-started/account-center.md) such as your name, profile picture, date of birth, and location.
 * **Notifications:** [Modify your notification preferences](./#how-can-i-change-my-notification-preferences) to manage how you receive alerts.
 * **My QR Code:** Display or share your personal QR Code, which provides a direct link to your profile.
-* **Analytics:** View statistics related to your posts, including follower counts, shares, and general engagement.
+* **Analytics:** [View statistics](activity-log.md#analytics) related to your posts, including follower counts, shares, and general engagement.
 * **Your Liked:** Access a list of posts you've liked, allowing you to revisit favorite content easily.
 * **Restricted:** [Manage Restricted Mode](./#what-is-restricted-mode-and-how-to-toggle-it) on or off.
 * **Close Friends:** [Customize who is in your Close Friends circle](./#what-is-close-friends-circle) for more private content sharing.
 * **Security:** Update and [manage your security settings](../../sign-up-and-get-started/account-security.md) to ensure your account’s safety.
-* **Accessibility:** Modify settings to improve app usability according to your accessibility needs.
 * **Help Center:** Navigate to the help centre for assistance with any issues or queries.
 * **Give Feedback:** [Provide feedback](./#how-to-provide-feedback-about-the-moseiki-app) about your user experience or report any problems.
 * **Log Out:** Sign out of your Moseiki Account.
@@ -31,7 +30,7 @@ You can view your account Activity Log in the Moseiki app by navigating to the A
 1. Open the Moseiki app and go to your profile.
 2. Click on the ![](<../../../.gitbook/assets/Group 410.png>)<mark style="color:purple;">Hamburger Menu</mark>  in the top corner of the screen.
 3. Select <mark style="color:purple;">Account Settings</mark> from the menu.
-4. Find and tap on <mark style="color:purple;">Activity Log</mark>.
+4. Find and tap on [Activity Log](activity-log.md).
 
 In the Activity Log, you can review recent activities on your account, such as logins and settings changes. This section also allows you to monitor for any unauthorized access. If you notice suspicious activity, you can use this feature to log out from other devices remotely, ensuring your account's security.
 
@@ -94,7 +93,14 @@ Once you have selected all the friends you want to add, tap the "Save" button lo
 
 <summary>How can i change my Notification Preferences?</summary>
 
+You can view your account Activity Log in the Moseiki app by navigating to the Account Settings. Here’s how to access it:
 
+1. Open the Moseiki app and go to your profile.
+2. Click on the ![](<../../../.gitbook/assets/Group 410.png>)<mark style="color:purple;">Hamburger Menu</mark>  in the top corner of the screen.
+3. Select <mark style="color:purple;">Account Settings</mark> from the menu.
+4. Find and tap on [Notifications](./#how-can-i-change-my-notification-preferences).
+
+In the Notifications section, you can review and manage various types of notifications for your account. This includes push notifications, email notifications, and SMS notifications. You can customize your preferences for different activities, such as posts, messages, followers, trends, marketplace activities, and more. This feature helps you stay updated on account activities and ensures you receive the alerts you want.
 
 </details>
 
@@ -102,7 +108,14 @@ Once you have selected all the friends you want to add, tap the "Save" button lo
 
 <summary>What is Restricted Mode and how to toggle it?</summary>
 
+Restricted Mode is a feature that helps limit the appearance of content that may not be appropriate for some audiences. This mode is designed to filter out sensitive content, ensuring a safer browsing experience.
 
+1. Open the Moseiki app and go to your profile.
+2. Click on the ![](<../../../.gitbook/assets/Group 410.png>)<mark style="color:purple;">Hamburger Menu</mark>  in the top corner of the screen.
+3. Select <mark style="color:purple;">Account Settings</mark> from the menu.
+4. Find and tap on <mark style="color:purple;">Restriction</mark>.
+5. Use the switch to turn on Restricted Mode.
+6. When prompted, enter your account password to activate the mode (note: the password screen will display a generic passcode entry, but you should use your account password).
 
 </details>
 
@@ -110,6 +123,12 @@ Once you have selected all the friends you want to add, tap the "Save" button lo
 
 <summary>How to provide feedback about the Moseiki App?</summary>
 
+In the [Account Settings](./) menu look for and select <mark style="color:purple;">Give Feedback</mark>.&#x20;
 
+1. Choose the category that best describes your issue (e.g., Account, Wallet, Marketplace, Post & Stories, Live Stream, Interaction, Other).&#x20;
+2. Provide a detailed description of the issue in the description field.&#x20;
+3. You can upload a screenshot to demonstrate the problem. This will help the support team understand the issue better.&#x20;
+4. Once you have filled in the description and optionally uploaded a screenshot, tap the Send button to submit your feedback.&#x20;
+5. After submitting your feedback, you will see a confirmation screen thanking you for your feedback. Tap <mark style="color:purple;">Done</mark> to complete the process.
 
 </details>
