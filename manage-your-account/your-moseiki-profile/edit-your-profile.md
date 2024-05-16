@@ -7,7 +7,7 @@
 
 <details>
 
-<summary>How to add users as Friens to your profile?</summary>
+<summary>How to add users as Friends to your profile?</summary>
 
 1. Tap <mark style="color:purple;">Profile</mark> in the navigation bar.
 2. Tap the <img src="../../.gitbook/assets/Frame (7).png" alt="" data-size="line"><mark style="color:purple;">Add Friends</mark> button.
