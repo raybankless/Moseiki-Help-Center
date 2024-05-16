@@ -16,10 +16,10 @@ To start creating a post, tap on the ![](<../../.gitbook/assets/arti (1).png>) <
    * **Private**: Visible only to your friends.
 3. **Compose Your Text**: You can type up to 222 characters. Emojis count as 2 characters each. The app will automatically suggest AI-generated photo thumbnails when you input a period (.) in your text.
 4. **Add Media and More**: Below the text area, use the selection bar to add different types of content to your post. Here’s what you can include:
-   * ![](<../../.gitbook/assets/Frame (1).png>)[**Add Media From Device Storage/Media Library**](https://app.gitbook.com/o/NopSIKLXcyXkMu2SCX9Y/s/ERa0omXloOunEjWXbqWy/\~/changes/22/moseiki-features/share-a-post/create-a-post#add-media-from-device-storage-media-library)
+   * ![](<../../.gitbook/assets/Frame (1).png>)[**Add Media From Device Storage/Media Library**](https://app.gitbook.com/s/ERa0omXloOunEjWXbqWy/moseiki-features/share-a-post/create-a-post#add-media-from-device-storage-media-library)
    * ![](<../../.gitbook/assets/Vector (7).png>) **Add GIF from Giphy**
    * ![](../../.gitbook/assets/tagPeopleIcon.svg) **Tag Friends**
-   * ![](<../../.gitbook/assets/Frame 6878.png>) [**Add Voice Recording**](https://app.gitbook.com/o/NopSIKLXcyXkMu2SCX9Y/s/ERa0omXloOunEjWXbqWy/\~/changes/22/moseiki-features/share-a-post/create-a-post#add-voice-recording)
+   * ![](<../../.gitbook/assets/Frame 6878.png>) [**Add Voice Recording**](https://app.gitbook.com/s/ERa0omXloOunEjWXbqWy/moseiki-features/share-a-post/create-a-post#add-voice-recording)
    * <img src="../../.gitbook/assets/Vector.svg" alt="" data-size="line"> **Add Music from Sound Stripe**
    * ![](<../../.gitbook/assets/Frame 6877.png>) **Add Poll**
    * ![](<../../.gitbook/assets/Frame 180.png>)**Add Location**
@@ -132,5 +132,18 @@ Ensure the app has access to your device’s microphone before you start recordi
 <summary>How to add a location to a post?</summary>
 
 
+
+</details>
+
+<details>
+
+<summary>How to give an offer to a post?</summary>
+
+1. Click on the ![](<../../.gitbook/assets/Vector (1).png>) <mark style="color:purple;">Kebab Menu</mark>  on the top right of the post.
+2. Select <mark style="color:purple;">Give Offer</mark> from the menu.
+3. Choose the offer category. Options include "Text", "Text & Gallery", and "Gallery".
+4. If applicable, select the pieces in the collection you want to give an offer on. You can select individual pieces or the entire collection.
+5. Enter your offer price. Make sure the price meets the minimum requirement specified. Confirm your price and submit the offer.
+6. Once submitted, you will see a confirmation screen indicating that your offer was successful. If the offer is accepted, you will be notified.
 
 </details>
