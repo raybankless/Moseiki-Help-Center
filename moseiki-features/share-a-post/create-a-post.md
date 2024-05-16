@@ -123,7 +123,13 @@ Ensure the app has access to your device’s microphone before you start recordi
 
 <summary>How to add a poll to a post?</summary>
 
+Tap the ![](<../../.gitbook/assets/Frame 6877.png>) <mark style="color:purple;">Poll Button</mark> when creating a post.
 
+1. Enter your first choice in the "Choice 1" field.
+2. Tap the ![](<../../.gitbook/assets/Vector (17).png>) button to add another choice. Repeat this step to add more choices as needed.
+3. To delete a choice, click the ![](<../../.gitbook/assets/Vector (18).png>) button next to it.
+4. Set the poll duration by selecting the desired time frame from the "Poll duration" dropdown menu.
+5. Once you have completed all fields, tap the "Post" button at the top right to publish your poll.
 
 </details>
 
@@ -131,7 +137,13 @@ Ensure the app has access to your device’s microphone before you start recordi
 
 <summary>How to add a location to a post?</summary>
 
+Tap the ![](<../../.gitbook/assets/Frame 180.png>) <mark style="color:purple;">Location Button</mark> when creating a post.
 
+1. If prompted, allow the Moseiki app to access your device location to include location data in your post.
+2. Suggested locations will be displayed by default.
+3. Suggestions are based on the close proximity of the meta-data of the media file, if available. If meta-data is not available, suggestions will be based on the close proximity of your current device location.
+4. You can also use the search bar at the top of the suggested locations to find a specific location.
+5. Pick an option from the displayed locations to add it to your post.
 
 </details>
 
