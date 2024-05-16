@@ -39,6 +39,6 @@ Use the [Action Button](../explore-moseiki/navigation.md#action-button) and sele
 <summary>Manage tags for your stories</summary>
 
 1. Tap ![](<../.gitbook/assets/Frame 180.png>) <mark style="color:purple;">Location</mark> to add and manage the location tag of your story.
-2. Tap ![](<../.gitbook/assets/Group (3).png>) <mark style="color:purple;">Tag People</mark> to add or manage tags in your story.
+2. Tap ![](<../.gitbook/assets/Group (3).png>) <mark style="color:purple;">Tag People</mark> to add or manage people tagged in your story.
 
 </details>

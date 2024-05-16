@@ -2,7 +2,7 @@
 
 * [How can we help you?](README.md)
 
-## Manage Your Account
+## 🏦 Manage Your Account
 
 * [Sign up and Get Started](manage-your-account/sign-up-and-get-started/README.md)
 * [Create a Moseiki Account](manage-your-account/sign-up-and-get-started/create-a-moseiki-account.md)
@@ -14,7 +14,6 @@
   * [Account Recovery](manage-your-account/sign-up-and-get-started/account-recovery.md)
 * [Your Moseiki Profile](manage-your-account/your-moseiki-profile/README.md)
   * [Edit your Profile](manage-your-account/your-moseiki-profile/edit-your-profile.md)
-  * [Add Friends](manage-your-account/your-moseiki-profile/add-friends.md)
   * [Navigate Your Content](manage-your-account/your-moseiki-profile/navigate-your-content.md)
 * [Log into Moseiki](manage-your-account/log-into-moseiki.md)
 
@@ -23,7 +22,7 @@
 * [Share a Post](moseiki-features/share-a-post/README.md)
   * [Create a Post](moseiki-features/share-a-post/create-a-post.md)
 * [Create a Memory](moseiki-features/create-a-memory.md)
-* [Blockchain Wallet](moseiki-features/blockchain-wallet.md)
+* [Moseiki Wallet](moseiki-features/blockchain-wallet.md)
 * [Moseiki Handle](moseiki-features/moseiki-handle.md)
 * [Stories](moseiki-features/stories.md)
 * [AI Profile Picture Generation](moseiki-features/ai-profile-picture-generation.md)
