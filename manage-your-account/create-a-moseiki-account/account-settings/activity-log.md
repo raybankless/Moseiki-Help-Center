@@ -2,7 +2,7 @@
 
 The Activity Log in the Moseiki app allows you to review various actions and activities on your account.
 
-In the [Account Settings](./) menu, look for and select <mark style="color:purple;">Activity Log</mark>.&#x20;
+In the [Account Settings](./) menu, look for and select <mark style="color:purple;">Activity Log</mark>.
 
 <details>
 
@@ -58,7 +58,7 @@ In the [Activity Log](activity-log.md) menu, select <mark style="color:purple;">
 
 <summary>Analytics</summary>
 
-In the  [Activity Log](activity-log.md) menu, select <mark style="color:purple;">Sticker Responses</mark>. This section displays the average time you spend per day using the Moseiki app on your device. You can switch between weekly and monthly views using the dropdown menu at the top right corner.
+In the [Activity Log](activity-log.md) menu, select <mark style="color:purple;">Analytics</mark>. This section displays the average time you spend per day using the Moseiki app on your device. You can switch between weekly and monthly views using the dropdown menu at the top right corner.
 
 The analytics page provides a detailed breakdown of your app usage, including:
 
@@ -67,7 +67,15 @@ The analytics page provides a detailed breakdown of your app usage, including:
 * **Night Time**: Shows the total time spent during nighttime.
 * **Indoor Time**: Indicates the time spent using the app indoors.
 * **Outdoor Time**: Indicates the time spent using the app outdoors.
-* **Marketplace**: Shows the time spent in the marketplace section of the app.
+* **Shop**: Shows the time spent in the marketplace section of the app.
 * **Total**: Displays the total time spent on the app.
+
+</details>
+
+<details>
+
+<summary>Your Tips</summary>
+
+
 
 </details>

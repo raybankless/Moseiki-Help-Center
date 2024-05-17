@@ -35,12 +35,3 @@ You can tap the <mark style="color:purple;">**Continue with Google**</mark> butt
 You can tap the <mark style="color:purple;">**Continue with Xion**</mark> button and enter an email address you want to use with Moseiki. This will log you into Moseiki if you have an existing account, or if you do not, it will start account creation process.
 
 </details>
-
-<details>
-
-<summary>Recover Your Account</summary>
-
-
-
-</details>
-

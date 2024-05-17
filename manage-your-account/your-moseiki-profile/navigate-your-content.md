@@ -14,7 +14,7 @@ You can view all your posts by selecting the Posts Tab from your profile. **Post
 
 <summary>Stories Tab</summary>
 
-You can view the stories you shared by clicking the Stories Tab in your profile. **Stories** provide a dynamic way to share content that is visible for 24 hours before disappearing. In this tab, you can view past stories, see viewer statistics, and access stories you've archived. Learn [How to Create and Share a Story](../../moseiki-features/stories.md#create-and-share-a-story).
+You can view the stories you shared by clicking the Stories Tab in your profile. [Stories](../../moseiki-features/stories.md) provide a dynamic way to share content that is visible for 24 hours before disappearing. In this tab, you can view past stories, see viewer statistics, and access stories you've archived. Learn [How to Create and Share a Story](../../moseiki-features/stories.md#create-and-share-a-story).
 
 </details>
 

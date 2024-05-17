@@ -21,10 +21,19 @@
 
 * [Share a Post](moseiki-features/share-a-post/README.md)
   * [Create a Post](moseiki-features/share-a-post/create-a-post.md)
+  * [Post Engagement](moseiki-features/share-a-post/post-engagement/README.md)
+    * [Like](moseiki-features/share-a-post/post-engagement/like.md)
+    * [Comment](moseiki-features/share-a-post/post-engagement/comment.md)
+    * [Repost](moseiki-features/share-a-post/post-engagement/repost.md)
+    * [Share](moseiki-features/share-a-post/post-engagement/share.md)
+    * [Send Tip](moseiki-features/share-a-post/post-engagement/send-tip.md)
+    * [Give Offer](moseiki-features/share-a-post/post-engagement/give-offer.md)
+    * [Report](moseiki-features/share-a-post/post-engagement/report.md)
 * [Create a Memory](moseiki-features/create-a-memory.md)
 * [Moseiki Wallet](moseiki-features/blockchain-wallet.md)
 * [Moseiki Handle](moseiki-features/moseiki-handle.md)
 * [Stories](moseiki-features/stories.md)
+* [Tipping](moseiki-features/tipping.md)
 * [AI Profile Picture Generation](moseiki-features/ai-profile-picture-generation.md)
 
 ## 🌎 Explore Moseiki

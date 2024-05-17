@@ -14,13 +14,14 @@ To start creating a post, tap on the ![](<../../.gitbook/assets/arti (1).png>) <
 2. **Choose Post Visibility**: Select who can see your post using the dropdown visibility selector:
    * **Public**: Visible to anyone on Moseiki.
    * **Private**: Visible only to your friends.
+   * Close Friends: Visible only to your Close Friends Circle.
 3. **Compose Your Text**: You can type up to 222 characters. Emojis count as 2 characters each. The app will automatically suggest AI-generated photo thumbnails when you input a period (.) in your text.
 4. **Add Media and More**: Below the text area, use the selection bar to add different types of content to your post. Here’s what you can include:
    * ![](<../../.gitbook/assets/Frame (1).png>)[**Add Media From Device Storage/Media Library**](https://app.gitbook.com/s/ERa0omXloOunEjWXbqWy/moseiki-features/share-a-post/create-a-post#add-media-from-device-storage-media-library)
    * ![](<../../.gitbook/assets/Vector (7).png>) **Add GIF from Giphy**
    * ![](../../.gitbook/assets/tagPeopleIcon.svg) **Tag Friends**
    * ![](<../../.gitbook/assets/Frame 6878.png>) [**Add Voice Recording**](https://app.gitbook.com/s/ERa0omXloOunEjWXbqWy/moseiki-features/share-a-post/create-a-post#add-voice-recording)
-   * <img src="../../.gitbook/assets/Vector.svg" alt="" data-size="line"> **Add Music from Sound Stripe**
+   * <img src="../../.gitbook/assets/Vector (1).svg" alt="" data-size="line"> **Add Music from Sound Stripe**
    * ![](<../../.gitbook/assets/Frame 6877.png>) **Add Poll**
    * ![](<../../.gitbook/assets/Frame 180.png>)**Add Location**
 5. **Content Compatibility**: When you choose a type of media, incompatible options will be faded out on the selection bar. Here’s a quick compatibility guide:
@@ -99,7 +100,11 @@ Ensure the app has access to your device’s microphone before you start recordi
 
 <summary>How to tag my friends in a post?</summary>
 
+Tap the <img src="../../.gitbook/assets/tagPeopleIcon.svg" alt="" data-size="line"> <mark style="color:purple;">Tag Friends Button</mark> to open the panel.
 
+1. Use the “Find people and tag” search bar at the bottom of the tagging interface to type the names of the friends you wish to tag.
+2. From the search results or the list displayed, tap on the names of the friends you want to tag. A checkmark may appear next to their name to indicate they have been selected.
+3. Once you have selected all the friends you wish to tag, tap <mark style="color:purple;">Done</mark> and confirm the action.
 
 </details>
 
@@ -107,7 +112,11 @@ Ensure the app has access to your device’s microphone before you start recordi
 
 <summary>How to add a GIF to a post?</summary>
 
+Tap the ![](<../../.gitbook/assets/Vector (7).png>) <mark style="color:purple;">GIF Button</mark> to open the GIF search panel.
 
+1. Enter keywords in the search bar to find the perfect GIF. For instance, typing “celebration” will show related GIFs.
+2. Tap on the GIF that best fits your message to select it.
+3. The GIF will automatically be added to your message box.
 
 </details>
 
@@ -115,7 +124,17 @@ Ensure the app has access to your device’s microphone before you start recordi
 
 <summary>How to add music to a post?</summary>
 
+Tap the <img src="../../.gitbook/assets/Vector (1).svg" alt="" data-size="line"> <mark style="color:purple;">Music</mark> to open the music selection panel.
 
+1. Choose between the “For you”, “Favourite”, or genre-specific sections like “Electronic”, “Pop”, etc., from the top or bottom menu.
+2. Use the search bar to find specific tracks or artists, or browse through the recommended lists or genres.
+3. To add a song to your playlist or favorites, tap the ![](<../../.gitbook/assets/Vector (14).png>) <mark style="color:purple;">Bookmark</mark> Icon next to the song title to add a song to your playlist or the ![](../../.gitbook/assets/arrow-forward.png)<mark style="color:purple;">Arrow</mark> icon to add it to your post.
+
+Additional Tips
+
+• Personalized Recommendations: Frequently adding songs or interacting with various tracks will improve personalized recommendations under the “For you” tab.
+
+• Managing Playlists: You can manage or modify your playlists by accessing them through the “Favourited” or specific playlist sections from the main menu.
 
 </details>
 
@@ -150,6 +169,8 @@ Tap the ![](<../../.gitbook/assets/Frame 180.png>) <mark style="color:purple;">L
 <details>
 
 <summary>How to give an offer to a post?</summary>
+
+a
 
 1. Click on the ![](<../../.gitbook/assets/Vector (1).png>) <mark style="color:purple;">Kebab Menu</mark>  on the top right of the post.
 2. Select <mark style="color:purple;">Give Offer</mark> from the menu.
