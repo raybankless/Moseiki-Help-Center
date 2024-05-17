@@ -1,4 +1,4 @@
-# Blockchain Wallet
+# Moseiki Wallet
 
 Moseiki Wallet is one of the core components of the Moseiki App, enabling users to manage their activity in the application.
 
@@ -22,25 +22,26 @@ Your Moseiki Wallet is automatically created during the sign-up process. Each ac
 
 <details>
 
-<summary>How to Deposit / Buy crypto currency?</summary>
+<summary>How to buy crypto currency?</summary>
 
-Click on \[icon] Deposit to add Moesiki Tokens to your wallet in exchange of £ GPB.
+Click on ![](<../.gitbook/assets/Frame (8).png>) Deposit to add Moesiki Tokens to your wallet in exchange of £ GPB.
 
-* Enter the amount of £ GPB to start the conversion.
-* User selects £50, £100, £250 or £500
-* The conversion rate will calculate the Moseiki Token equivalent with the transaction fees included
-* Users can add their payment method of choice among:
-  * PayPal
-  * Credit Card
-  * Apple Pay
-  * Google Pay
-* After a successful payment, Moseiki Token is deposited to users account balance.
+1. Enter the amount of fiat currency to start the conversion. You can choose from the predefined amounts at the bottom of the page.
+2. The conversion rate will calculate the Moseiki Token equivalent with the transaction fees included
+3. Select your preferred payment method.
+   * Paypal
+   * Credit Card
+   * Apple Pay
+   * Google Pay
+4. If you select Credit Card, you will see a list of your added cards. You can delete any card by swiping left and tapping the delete button. To add a new card, tap "Add a credit or debit card" and enter the card details.
+5. Before finalizing the transaction, check the total amount of GBP to be deducted and the equivalent Moseiki Tokens you will receive, including any applicable service fees and estimated gas fees if relevant.
+6. Tap <mark style="color:purple;">Continue</mark> to proceed with the purchase. You will be prompted to either log in for PayPal or enter card details for Credit Card.
 
 </details>
 
 <details>
 
-<summary>How to send currency on chain?</summary>
+<summary>How to send crypto currency on chain?</summary>
 
 Click on \[icon] Send to send Moesiki Tokens to another users’s wallet.
 
@@ -55,7 +56,7 @@ Click on \[icon] Send to send Moesiki Tokens to another users’s wallet.
 
 <details>
 
-<summary>How to receive currency on chain?</summary>
+<summary>How to receive crypto currency on chain?</summary>
 
 Click on \[icon] Receive to receive and share your wallet address in:
 
@@ -66,7 +67,7 @@ Click on \[icon] Receive to receive and share your wallet address in:
 
 <details>
 
-<summary>How to scan a QR code to get the address?</summary>
+<summary>How to scan a QR code to get a wallet address?</summary>
 
 Click on ![](<../.gitbook/assets/Frame (5).png>) <mark style="color:purple;">Scan</mark> to scan QR Code of the recipient’s address or a collection address.
 
@@ -83,4 +84,3 @@ You can add one of the [authentication methods](../manage-your-account/sign-up-a
 * Secret Key
 
 </details>
-
