@@ -24,7 +24,7 @@ Your Moseiki Wallet is automatically created during the sign-up process. Each ac
 
 <summary>How to buy crypto currency?</summary>
 
-Click on ![](<../.gitbook/assets/Frame (8).png>) Deposit to add Moesiki Tokens to your wallet in exchange of £ GPB.
+Tap the ![](<../.gitbook/assets/Frame (8).png>) <mark style="color:purple;">Deposit Button</mark> to add Moesiki Tokens to your wallet in exchange of £ GPB.
 
 1. Enter the amount of fiat currency to start the conversion. You can choose from the predefined amounts at the bottom of the page.
 2. The conversion rate will calculate the Moseiki Token equivalent with the transaction fees included
@@ -43,14 +43,19 @@ Click on ![](<../.gitbook/assets/Frame (8).png>) Deposit to add Moesiki Tokens t
 
 <summary>How to send crypto currency on chain?</summary>
 
-Click on \[icon] Send to send Moesiki Tokens to another users’s wallet.
+Tap the ![](<../.gitbook/assets/Frame (3).png>) <mark style="color:purple;">Send Button</mark> to transfer Moseiki Tokens or other cryptocurrencies.
 
-* User can send Moseiki Token or NFTs to other users.
-* £ GPB value of the tokens can be seen.
-* Transaction sender’s wallet address will be shown in From section.
-* Enter the transaction recipient's wallet address into To section.
-* Estimated gas fees and the transaction finalization duration can be seen.
-* After a successful transaction, success can be seen.
+1\. Select the cryptocurrency you want to send from the “From” dropdown menu.
+
+2\. Enter the recipient’s address in the “To” field. You can manually enter it or tap the “Paste” button if you have copied the address.
+
+3\. Enter the amount you wish to send.
+
+4\. The estimated gas fee and service fee will be displayed. Review these fees before proceeding.
+
+5\. Tap Continue to review the transaction details.
+
+6\. Confirm the details and complete the transaction.
 
 </details>
 
@@ -58,10 +63,12 @@ Click on \[icon] Send to send Moesiki Tokens to another users’s wallet.
 
 <summary>How to receive crypto currency on chain?</summary>
 
-Click on \[icon] Receive to receive and share your wallet address in:
+Tap the ![](<../.gitbook/assets/Frame (4).png>) <mark style="color:purple;">Receive Button</mark> to access your wallet address.
 
-* QR Code
-* Text
+Share your wallet address in one of the following formats:
+
+* Tap the ![](<../.gitbook/assets/Frame (9).png>)<mark style="color:purple;">Scan Button</mark> for a scannable QR Code for easy address sharing.
+* Send Address as Text: Copy and share the address as plain text.
 
 </details>
 
@@ -69,7 +76,11 @@ Click on \[icon] Receive to receive and share your wallet address in:
 
 <summary>How to scan a QR code to get a wallet address?</summary>
 
-Click on ![](<../.gitbook/assets/Frame (5).png>) <mark style="color:purple;">Scan</mark> to scan QR Code of the recipient’s address or a collection address.
+Tap the ![](<../.gitbook/assets/Frame (9).png>)<mark style="color:purple;">Scan Button</mark>
+
+Tap <mark style="color:purple;">Scan a QR Code</mark>
+
+Scan the QR Code of the recipient to obtain their wallet address.
 
 </details>
 
@@ -77,10 +88,50 @@ Click on ![](<../.gitbook/assets/Frame (5).png>) <mark style="color:purple;">Sca
 
 <summary>How to add passkesys to Moseiki Wallet?</summary>
 
+Tap the ![](<../.gitbook/assets/Group 410.png>) <mark style="color:purple;">Hamburger Menu</mark> on the top right corner and select <mark style="color:purple;">Add Passkeys</mark>.
+
 You can add one of the [authentication methods](../manage-your-account/sign-up-and-get-started/account-security.md#how-can-i-change-my-two-factor-authantication-2fa-settings) for accessing your wallet.
 
 * <img src="../.gitbook/assets/Frame 7791 (1).png" alt="" data-size="original"> Touch ID
 * ![](<../.gitbook/assets/Group (7).png>) Face ID
 * ![](<../.gitbook/assets/Frame 7792.png>) Secret Key
+
+</details>
+
+<details>
+
+<summary>How to see your wallet details?</summary>
+
+Tap the ![](<../.gitbook/assets/Group 410.png>) <mark style="color:purple;">Hamburger Menu</mark> on the top right corner and select <mark style="color:purple;">Wallet Details</mark>. Tap Wallet Details to view your wallet address. You can copy your wallet address by tapping the copy icon next to it.
+
+</details>
+
+<details>
+
+<summary>How to see your past transactions?</summary>
+
+Tap the ![](<../.gitbook/assets/Group 410.png>) <mark style="color:purple;">Hamburger Menu</mark> on the top right corner and select <mark style="color:purple;">Transactions</mark>.
+
+This page includes information about the date, time, and amount for each transaction, along with the transaction type (received, bought, etc.). You can also search for specific transactions using the search bar at the top.
+
+</details>
+
+<details>
+
+<summary>How to see your collections?</summary>
+
+Tap the ![](<../.gitbook/assets/Group 410.png>) <mark style="color:purple;">Hamburger Menu</mark> on the top right corner and select <mark style="color:purple;">Collections</mark>.&#x20;
+
+This page displays all the NFT collections you own. Here, you can find details like name, price, and the date added.&#x20;
+
+To send a collectible, tap the ![](<../.gitbook/assets/Frame (3).png>)<mark style="color:purple;">Send Button</mark> at the top right corner of each thumbnail.
+
+</details>
+
+<details>
+
+<summary>How to log out of Moseiki Wallet?</summary>
+
+Tap the Hamburger Menu on the top right corner. Tap Log Out Wallet to securely log out of your wallet. This action will prevent unauthorized access and ensure your wallet's security.
 
 </details>
