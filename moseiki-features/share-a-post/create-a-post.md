@@ -172,7 +172,7 @@ Tap the ![](<../../.gitbook/assets/Frame 180.png>) <mark style="color:purple;">L
 
 a
 
-1. Click on the ![](<../../.gitbook/assets/Vector (1).png>) <mark style="color:purple;">Kebab Menu</mark>  on the top right of the post.
+1. Click on the ![](<../../.gitbook/assets/Vector (1) (2).png>) <mark style="color:purple;">Kebab Menu</mark>  on the top right of the post.
 2. Select <mark style="color:purple;">Give Offer</mark> from the menu.
 3. Choose the offer category. Options include "Text", "Text & Gallery", and "Gallery".
 4. If applicable, select the pieces in the collection you want to give an offer on. You can select individual pieces or the entire collection.

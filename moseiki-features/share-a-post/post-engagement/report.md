@@ -1,6 +1,6 @@
 # Report
 
-Tap the ![](<../../../.gitbook/assets/Vector (1).png>) <mark style="color:purple;">Kebab</mark> <mark style="color:purple;">Menu</mark> located at the top right corner of the post.
+Tap the ![](<../../../.gitbook/assets/Vector (1) (2).png>) <mark style="color:purple;">Kebab</mark> <mark style="color:purple;">Menu</mark> located at the top right corner of the post.
 
 &#x20;A list of reasons will be displayed for reporting the post. Select the category that best fits the issue:
 

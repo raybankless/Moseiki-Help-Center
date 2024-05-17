@@ -8,7 +8,7 @@ In the [Account Settings](./) menu, look for and select <mark style="color:purpl
 
 <summary>Your Search History</summary>
 
-In the [Activity Log](activity-log.md) menu, select <mark style="color:purple;">Your search history</mark>. Here, you will see a list of all your recent search activities, allowing you to review what you have searched for. If you need to delete any search items, simply swipe left on the specific search item you want to remove then tap ![](../../../.gitbook/assets/Vector.png)<mark style="color:purple;">Delete</mark>. For multiple deletions, you can select several items and and then tap <mark style="color:purple;">Delete</mark> at the bottom of the screen.
+In the [Activity Log](activity-log.md) menu, select <mark style="color:purple;">Your search history</mark>. Here, you will see a list of all your recent search activities, allowing you to review what you have searched for. If you need to delete any search items, simply swipe left on the specific search item you want to remove then tap ![](<../../../.gitbook/assets/Vector (1).png>)<mark style="color:purple;">Delete</mark>. For multiple deletions, you can select several items and and then tap <mark style="color:purple;">Delete</mark> at the bottom of the screen.
 
 </details>
 
@@ -16,7 +16,7 @@ In the [Activity Log](activity-log.md) menu, select <mark style="color:purple;">
 
 <summary>Comments</summary>
 
-In the [Activity Log](activity-log.md) menu, select <mark style="color:purple;">Comments</mark>. This section displays all the comments you have made on posts, allowing you to review your interactions. You can filter your comments by "All dates", "Newest to oldest", or "Last 30 days" using the tabs at the top. If you wish to delete any comments, swipe left on the specific comment you want to remove then tap![](../../../.gitbook/assets/Vector.png)<mark style="color:purple;">Delete</mark>. Alternatively, you can tap <mark style="color:purple;">Select</mark> in the top right corner, choose the comments you want to delete by tapping on them (a checkmark will appear), and then tap <mark style="color:purple;">Delete</mark> at the bottom of the screen.
+In the [Activity Log](activity-log.md) menu, select <mark style="color:purple;">Comments</mark>. This section displays all the comments you have made on posts, allowing you to review your interactions. You can filter your comments by "All dates", "Newest to oldest", or "Last 30 days" using the tabs at the top. If you wish to delete any comments, swipe left on the specific comment you want to remove then tap![](<../../../.gitbook/assets/Vector (1).png>)<mark style="color:purple;">Delete</mark>. Alternatively, you can tap <mark style="color:purple;">Select</mark> in the top right corner, choose the comments you want to delete by tapping on them (a checkmark will appear), and then tap <mark style="color:purple;">Delete</mark> at the bottom of the screen.
 
 </details>
 
@@ -24,7 +24,7 @@ In the [Activity Log](activity-log.md) menu, select <mark style="color:purple;">
 
 <summary>Stories Activity</summary>
 
-In the [Activity Log](activity-log.md) menu, select <mark style="color:purple;">Stroies Activity</mark>. This section displays all your interactions with stories. You can filter your activity by "All dates", "Newest to oldest", or "Last 30 days" using the tabs at the top. If you wish to delete any stories activity, tap <mark style="color:purple;">Select</mark> in the top right corner, choose the activities you want to delete by tapping on them (a checkmark will appear), and then tap ![](../../../.gitbook/assets/Vector.png)<mark style="color:purple;">Delete</mark> at the bottom of the screen.
+In the [Activity Log](activity-log.md) menu, select <mark style="color:purple;">Stroies Activity</mark>. This section displays all your interactions with stories. You can filter your activity by "All dates", "Newest to oldest", or "Last 30 days" using the tabs at the top. If you wish to delete any stories activity, tap <mark style="color:purple;">Select</mark> in the top right corner, choose the activities you want to delete by tapping on them (a checkmark will appear), and then tap ![](<../../../.gitbook/assets/Vector (1).png>)<mark style="color:purple;">Delete</mark> at the bottom of the screen.
 
 </details>
 
