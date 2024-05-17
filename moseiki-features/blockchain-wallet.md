@@ -9,8 +9,8 @@ Tap the ![](<../.gitbook/assets/wallet\_FILL0\_wght400\_GRAD0\_opsz48 1.png>)<ma
 * ![](<../.gitbook/assets/Frame (3).png>) **Send:** Enables you to [send funds to others](blockchain-wallet.md#how-to-send-currency-on-chain).
 * ![](<../.gitbook/assets/Frame (4).png>)**Receive:** Provides details for [receiving funds into your wallet](blockchain-wallet.md#how-to-receive-currency-on-chain).
 * ![](<../.gitbook/assets/Frame (5).png>) **Scan:** Use your device’s camera to [scan QR codes for transactions](blockchain-wallet.md#how-to-scan-a-qr-code-to-get-the-address).
-* **Recent Collectibles:** Shows the latest digital collectibles added to your wallet.
-* **Transaction History:** Provides a record of all your past transactions.
+* **Collectibles:** Shows the latest [digital collections](blockchain-wallet.md#how-to-see-your-collections) added to your wallet.
+* **Transaction History:** Provides a record of all your [past transactions](blockchain-wallet.md#how-to-see-your-past-transactions).
 
 <details>
 
