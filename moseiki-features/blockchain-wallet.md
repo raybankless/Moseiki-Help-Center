@@ -79,8 +79,8 @@ Click on ![](<../.gitbook/assets/Frame (5).png>) <mark style="color:purple;">Sca
 
 You can add one of the [authentication methods](../manage-your-account/sign-up-and-get-started/account-security.md#how-can-i-change-my-two-factor-authantication-2fa-settings) for accessing your wallet.
 
-* Touch ID
-* Face ID
-* Secret Key
+* <img src="../.gitbook/assets/Frame 7791 (1).png" alt="" data-size="original"> Touch ID
+* ![](<../.gitbook/assets/Group (7).png>) Face ID
+* ![](<../.gitbook/assets/Frame 7792.png>) Secret Key
 
 </details>
