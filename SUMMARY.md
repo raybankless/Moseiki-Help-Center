@@ -29,7 +29,7 @@
     * [Send Tip](moseiki-features/share-a-post/post-engagement/send-tip.md)
     * [Give Offer](moseiki-features/share-a-post/post-engagement/give-offer.md)
     * [Report](moseiki-features/share-a-post/post-engagement/report.md)
-* [Create a Memory](moseiki-features/create-a-memory.md)
+* [Create Tradable Content](moseiki-features/create-a-memory.md)
 * [Moseiki Wallet](moseiki-features/blockchain-wallet.md)
 * [Moseiki Handle](moseiki-features/moseiki-handle.md)
 * [Stories](moseiki-features/stories.md)
