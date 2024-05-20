@@ -180,3 +180,17 @@ a
 6. Once submitted, you will see a confirmation screen indicating that your offer was successful. If the offer is accepted, you will be notified.
 
 </details>
+
+<details>
+
+<summary>How Draft Posts work?</summary>
+
+When you start a post and are unable to complete it, whether due to needing to check something or for any other reason, Moseiki saves your half-written post as a draft. This allows you to continue writing your post at a later time without losing any progress.
+
+To access your drafts:
+
+* Tap on <mark style="color:purple;">Create Post</mark> from your profile or the main menu.
+* If you have any drafts saved, a <mark style="color:purple;">Drafts</mark> button will appear at the top section of the screen, tap on it.
+* Continue writing your post and complete it as needed.
+
+</details>
