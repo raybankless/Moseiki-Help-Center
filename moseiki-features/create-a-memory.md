@@ -1,15 +1,15 @@
-# Create Tradable Content
+# Create NFT Content
 
-Tradable posts are the most effective way to monetize your content on Moseiki. Create tradable content and allow other users to purchase it directly from their timeline.
+NFT Posts are the most effective way to monetize your content on Moseiki. Create tradable NFT content and allow other users to purchase it directly from their timeline.
 
-Click on <mark style="color:purple;">**Shop**</mark> in the top menu of the [post creation screen](share-a-post/create-a-post.md).
+Click on <mark style="color:purple;">**Shop**</mark> in the top menu of the [post creation screen](create-a-post.md).
 
 1. **Choose Source:**
    * **Voice:** Create a voice recording. If it's longer than 22 minutes, it will be divided into 22-minute segments.
    * **Camera:** Use your device camera to create a visual asset.
    * **Select from Library:** Choose an asset from your device library.
-2. **Fill in Memory Details:**
-   * **Name:** Enter the name of the Memory.
+2. **Fill in NFT Details:**
+   * **Name:** Enter the name of the NFT.
    * **Description:** Provide a short description.
    * **Category:** Select a category (Art, Content, Collectibles, Domain, Gaming, Membership Passes, Music, Photography, PFPs, Video).
 3. **Define Selling Options:**
@@ -18,7 +18,7 @@ Click on <mark style="color:purple;">**Shop**</mark> in the top menu of the [pos
    * **Royalty Fee:** Set the royalty fee.
    * **Price:** Determine the price.
 
-Click **Upload** to finalize and list your Memory for sharing or sale.\\
+Click <mark style="color:purple;">Upload</mark> to finalize and list your Memory for sharing or sale.
 
 <details>
 
