@@ -19,7 +19,7 @@ Long press the Action Button to see these shortcuts:
 * **Shop:** Direct link to the Shop.
 * **Mo:** Opens the AI workflow.
 * **Create Story:** Direct link to the [Story Creation](../moseiki-features/stories.md#create-and-share-a-story) workflow.
-* **Create Post:** Quick route to the [Post Creation](../moseiki-features/create-a-post.md) workflow.
+* **Create Post:** Quick route to the [Post Creation](../moseiki-features/share-a-post/create-a-post.md) workflow.
 
 Choose the needed shortcut to use the feature right away.
 

@@ -1,6 +1,6 @@
 # Give Offer
 
-You can only give offers to posts that are not [Memories](../create-a-memory.md). To give an offer on a post to gain ownership, start by clicking the <mark style="color:purple;">Give Offer</mark> button.
+You can only give offers to posts that are not [Memories](../../create-a-memory.md). To give an offer on a post to gain ownership, start by clicking the <mark style="color:purple;">Give Offer</mark> button.
 
 Select the type of offer you want to make:
 
@@ -31,6 +31,6 @@ Navigate to Offers section (??)
 * Review the offer details, including the item, offer amount, service fee, and creator royalty.
 * To accept an offer, tap the <mark style="color:purple;">Accept</mark> button. You will receive the net amount after fees.
 * To decline an offer, tap the <mark style="color:purple;">Decline</mark> button.
-* Alternatively, you can swipe left on an offer to reveal options to ![](<../../.gitbook/assets/Vector (1).png>) <mark style="color:purple;">Delete</mark> or ![](<../../.gitbook/assets/Frame 7076.png>)<mark style="color:purple;">Accept</mark> the offer.
+* Alternatively, you can swipe left on an offer to reveal options to ![](<../../../.gitbook/assets/Vector (1).png>) <mark style="color:purple;">Delete</mark> or ![](<../../../.gitbook/assets/Frame 7076.png>)<mark style="color:purple;">Accept</mark> the offer.
 
 </details>

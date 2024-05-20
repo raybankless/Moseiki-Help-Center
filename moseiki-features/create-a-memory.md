@@ -2,7 +2,7 @@
 
 NFT Posts are the most effective way to monetize your content on Moseiki. Create tradable NFT content and allow other users to purchase it directly from their timeline.
 
-Click on <mark style="color:purple;">**Shop**</mark> in the top menu of the [post creation screen](create-a-post.md).
+Click on <mark style="color:purple;">**Shop**</mark> in the top menu of the [post creation screen](share-a-post/create-a-post.md).
 
 1. **Choose Source:**
    * **Voice:** Create a voice recording. If it's longer than 22 minutes, it will be divided into 22-minute segments.

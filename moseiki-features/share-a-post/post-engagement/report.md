@@ -1,4 +1,4 @@
-# Report
+# Report Post
 
 Tap the ![](<../../../.gitbook/assets/Vector (1) (2).png>) <mark style="color:purple;">Kebab</mark> <mark style="color:purple;">Menu</mark> located at the top right corner of the post.
 

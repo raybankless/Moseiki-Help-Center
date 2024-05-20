@@ -6,7 +6,7 @@ Engagement with user profiles on Moseiki is primarily managed through the kebab 
 
 <summary>How to View account details?</summary>
 
-* Tap the ![](<../../.gitbook/assets/Vector (1) (2).png>) <mark style="color:purple;">Kebab Menu</mark> on the top right corner of the screen and select <mark style="color:purple;">About this account</mark> from the menu options.
+* Tap the ![](<../.gitbook/assets/Vector (1) (2).png>) <mark style="color:purple;">Kebab Menu</mark> on the top right corner of the screen and select <mark style="color:purple;">About this account</mark> from the menu options.
 * Review the details and information provided about the use
 
 </details>
@@ -15,7 +15,7 @@ Engagement with user profiles on Moseiki is primarily managed through the kebab 
 
 <summary>How to Share a suers profile?</summary>
 
-* Tap the ![](<../../.gitbook/assets/Vector (1) (2).png>) <mark style="color:purple;">Kebab Menu</mark> on the top right corner of the screen and select <mark style="color:purple;">Share this profile</mark> from the menu options.
+* Tap the ![](<../.gitbook/assets/Vector (1) (2).png>) <mark style="color:purple;">Kebab Menu</mark> on the top right corner of the screen and select <mark style="color:purple;">Share this profile</mark> from the menu options.
 * Choose how you want to share the profile and follow the on-screen instructions to complete the action.
 
 </details>
@@ -24,7 +24,7 @@ Engagement with user profiles on Moseiki is primarily managed through the kebab 
 
 <summary>How to Block a user?</summary>
 
-* Tap the ![](<../../.gitbook/assets/Vector (1) (2).png>) <mark style="color:purple;">Kebab Menu</mark> on the top right corner of the screen and select <mark style="color:purple;">Block</mark> from the menu options.
+* Tap the ![](<../.gitbook/assets/Vector (1) (2).png>) <mark style="color:purple;">Kebab Menu</mark> on the top right corner of the screen and select <mark style="color:purple;">Block</mark> from the menu options.
 * Choose the reason for reporting and follow the on-screen instructions to submit your report.
 
 </details>
@@ -33,7 +33,7 @@ Engagement with user profiles on Moseiki is primarily managed through the kebab 
 
 <summary>How to Report a user?</summary>
 
-Tap the ![](<../../.gitbook/assets/Vector (1) (2).png>) <mark style="color:purple;">Kebab Menu</mark> on the top right corner of the screen and select <mark style="color:purple;">Report</mark> from the menu options.
+Tap the ![](<../.gitbook/assets/Vector (1) (2).png>) <mark style="color:purple;">Kebab Menu</mark> on the top right corner of the screen and select <mark style="color:purple;">Report</mark> from the menu options.
 
 &#x20;A list of reasons will be displayed for reporting the user. Select the category that best fits the issue:
 
