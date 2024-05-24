@@ -52,9 +52,9 @@ Monetize your talents and creativity through our innovative NFT features. Turn y
 
 <details>
 
-<summary>Explore a Vibrant Marketplace</summary>
+<summary>Explore a Vibrant Shop</summary>
 
-Dive into a bustling marketplace where you can discover, buy, sell, and trade unique digital creations. Connect with a global community of artists and collectors, and find inspiration in the diverse array of digital art and collectibles.
+Dive into a bustling Shop where you can discover, buy, sell, and trade unique digital creations. Connect with a global community of artists and collectors, and find inspiration in the diverse array of digital art and collectibles.
 
 </details>
 

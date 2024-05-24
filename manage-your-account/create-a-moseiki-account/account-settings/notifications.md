@@ -2,7 +2,7 @@
 
 In the [Account Settings](./) menu, look for and select <mark style="color:purple;">Notifications</mark>.
 
-1. **Pause All Notifications**:  Toggle the switch at the top to pause all notifications if desired.
+1. **Pause All Notifications**: Toggle the switch at the top to pause all notifications if desired.
 2. **Customize Push Notifications**: Toggle any option you want on or off to suit your preferences.
 
 <details>
@@ -53,11 +53,11 @@ In the [Account Settings](./) menu, look for and select <mark style="color:purpl
 
 <details>
 
-<summary>Marketplace</summary>
+<summary>Shop</summary>
 
 * Item ending: Alerts for items that are about to end.
-* Item updates: Notifications for updates on marketplace items.
-* Personalized recommendations: Alerts for personalized marketplace recommendations.
+* Item updates: Notifications for updates on Shop items.
+* Personalized recommendations: Alerts for personalized shop recommendations.
 
 </details>
 
