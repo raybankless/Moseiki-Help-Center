@@ -110,7 +110,7 @@ Friends' birthdays: Reminders for your friends' birthdays.
 * More activity about you: Notifications for increased activity related to your account.
 * Birthdays: SMS reminders for friends' birthdays.
 * Video: Alerts for video-related activities.
-* Marketplace: SMS notifications for marketplace updates.
+* Shop: SMS notifications for Shop updates.
 * Fundraisers: Alerts for fundraiser activities.
 * Messages: SMS notifications for messages.
 * Other notifications: Various other SMS alert
