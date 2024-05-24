@@ -33,7 +33,7 @@ Moreover, by converting your post into a Memory, you open up possibilities to mo
 Click the ![](<../.gitbook/assets/Vector (1) (2).png>) <mark style="color:purple;">Kebab Menu</mark> and then click <mark style="color:purple;">Keep as Memory</mark> on the post you wish to convert.
 
 1. **Set Visibility Toggles:**
-   * **Show on Marketplace:** Decide if you want the Memory to be visible on the marketplace.
+   * **Show on Shop:** Decide if you want the Memory to be visible on the Shop.
    * **Show Your Profile Info:** Choose to display your profile information on the Memory.
    * **Show Post Content:** Opt to show or hide the text-based part of the content.
 2. **Fill in Memory Details:**
