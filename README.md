@@ -5,7 +5,7 @@ coverY: 0
 
 # How can we help you?
 
-Moseiki is a decentralized social media platform that prioritizes user privacy and empowerment. Our blockchain technology allows users to own and monetize their data, truly appreciating the value they create. We offer unique features such as NFTs, Social Finance, Daily Apps, Monetization, and Digital Identities.
+Moseiki is a decentralized social media platform that prioritizes user privacy and empowerment. Moseiki allows users to own and monetize their data, truly appreciating the value they create. We offer unique features such as NFTs, Social Finance, Daily Apps, Monetization, and Digital Identities.
 
 #### Popular Categories
 
