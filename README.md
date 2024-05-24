@@ -28,6 +28,14 @@ At Moseiki, your digital identity is uniquely yours. Claim your exclusive Moseik
 
 <details>
 
+<summary>Experience the Power of AI</summary>
+
+Meet MO, your personal AI assistant, designed to enhance your Moseiki journey. From personalized support to creative tools, MO is here to help you navigate and maximize the platform's potential.
+
+</details>
+
+<details>
+
 <summary>Express Yourself Freely</summary>
 
 Unleash your creativity and share your experiences without limitations. Moseiki ensures that your data remains yours, providing a platform where your voice can be heard without compromise.
@@ -55,13 +63,5 @@ Dive into a bustling marketplace where you can discover, buy, sell, and trade un
 <summary>Manage Your Finances Securely</summary>
 
 The Moseiki Wallet offers a safe and intuitive space to store and manage your cryptocurrencies and NFTs. Enjoy peace of mind knowing your digital assets are protected with the highest security standards.
-
-</details>
-
-<details>
-
-<summary>Experience the Power of AI</summary>
-
-Meet MO, your personal AI assistant, designed to enhance your Moseiki journey. From personalized support to creative tools, MO is here to help you navigate and maximize the platform's potential.
 
 </details>
