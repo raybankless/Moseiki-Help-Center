@@ -67,7 +67,7 @@ The analytics page provides a detailed breakdown of your app usage, including:
 * **Night Time**: Shows the total time spent during nighttime.
 * **Indoor Time**: Indicates the time spent using the app indoors.
 * **Outdoor Time**: Indicates the time spent using the app outdoors.
-* **Shop**: Shows the time spent in the marketplace section of the app.
+* **Shop**: Shows the time spent in the shop section of the app.
 * **Total**: Displays the total time spent on the app.
 
 </details>
