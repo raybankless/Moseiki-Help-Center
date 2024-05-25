@@ -33,7 +33,6 @@
 * [Moseiki Wallet](moseiki-features/blockchain-wallet.md)
 * [Moseiki Handle](moseiki-features/moseiki-handle.md)
 * [Stories](moseiki-features/stories.md)
-* [Tipping](moseiki-features/tipping.md)
 * [AI Profile Picture Generation](moseiki-features/ai-profile-picture-generation.md)
 
 ## 🌎 Explore Moseiki

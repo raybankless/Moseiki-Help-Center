@@ -76,6 +76,6 @@ The analytics page provides a detailed breakdown of your app usage, including:
 
 <summary>Your Tips</summary>
 
-
+In the [Activity Log](activity-log.md) menu, select <mark style="color:purple;">Your tips</mark>. This section displays all the tips you have sent to other users. You can filter your tips by "All dates," "Newest to oldest," or "Last 30 days" using the tabs at the top.
 
 </details>
