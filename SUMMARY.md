@@ -47,3 +47,4 @@
 
 * [Privacy Policy](https://moseiki.app/moseiki\_privacy\_policy.pdf)
 * [End User Management](https://moseiki.app/moseiki\_end\_user.pdf)
+* [Family Safety and Parental Guidelines](documents/family-safety-and-parental-guidelines.md)
