@@ -45,6 +45,7 @@
 
 ## 📃 Documents
 
+* [MOSEIKI END USER AGREEMENT (EUA)](documents/moseiki-end-user-agreement-eua.md)
 * [Privacy Policy](documents/privacy-policy.md)
 * [Privacy Policy](https://moseiki.app/moseiki\_privacy\_policy.pdf)
 * [End User Management](https://moseiki.app/moseiki\_end\_user.pdf)
