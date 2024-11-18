@@ -309,87 +309,81 @@ Moseiki and its licensors retain all rights, title, and interest in and to the P
 
 ### 12.1 Ownership
 
-* Platform and Content: The Platform, services, and all related content, including but not limited to text, images, graphics, logos, videos, and software, are owned by Moseiki or its licensors and are protected by copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws.
+* **Platform and Content:** The Platform, services, and all related content, including but not limited to text, images, graphics, logos, videos, and software, are owned by Moseiki or its licensors and are protected by copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws.
 * Trademarks: All trademarks, service marks, trade names, logos, and trade dress displayed on the Platform are proprietary to Moseiki or its licensors or licensees.
 
-12.2 Restrictions on Use
+### 12.2 Restrictions on Use
 
-* No Unauthorized Reproduction: You agree not to reproduce, duplicate, copy, sell, resell, distribute, download, modify, display, publicly perform, or prepare derivative works based on the Platform, services, or any related software, except as expressly authorized by Moseiki in writing.
-* No Separation of Content: You shall not use any images, photographs, video or audio sequences, or graphics from the Platform separately from the accompanying text or context, without prior written consent from Moseiki.
+* **No Unauthorized Reproduction:** You agree not to reproduce, duplicate, copy, sell, resell, distribute, download, modify, display, publicly perform, or prepare derivative works based on the Platform, services, or any related software, except as expressly authorized by Moseiki in writing.
+* **No Separation of Content:** You shall not use any images, photographs, video or audio sequences, or graphics from the Platform separately from the accompanying text or context, without prior written consent from Moseiki.
 
-12.3 Unauthorized Use
+### 12.3 Unauthorized Use
 
-* Breach of IP Rights: Any unauthorized use of the Platform or services is a violation of this Agreement and may infringe copyright, trademark, and other intellectual property laws. If you wish to make use of any material on the Platform other than as permitted in this Agreement, please contact us for written approval.
+* **Breach of IP Rights:** Any unauthorized use of the Platform or services is a violation of this Agreement and may infringe copyright, trademark, and other intellectual property laws. If you wish to make use of any material on the Platform other than as permitted in this Agreement, please contact us for written approval.
 
-12.4 Feedback and Suggestions
+### 12.4 Feedback and Suggestions
 
-* License to Feedback: By submitting feedback, comments, or suggestions regarding the Platform or services, you grant Moseiki a worldwide, perpetual, irrevocable, non-exclusive, royalty-free, transferable license to use, copy, modify, distribute, display, and perform your feedback for any purpose without any compensation to you. Moseiki is under no obligation to use or consider any feedback you provide.
+* **License to Feedback:** By submitting feedback, comments, or suggestions regarding the Platform or services, you grant Moseiki a worldwide, perpetual, irrevocable, non-exclusive, royalty-free, transferable license to use, copy, modify, distribute, display, and perform your feedback for any purpose without any compensation to you. Moseiki is under no obligation to use or consider any feedback you provide.
 
 \
 
 
-13\. Use of Services
+## 13. Use of Services
 
 This section outlines the terms of permitted use for the Moseiki Platform and services, including access rights, usage restrictions, and guidelines for contributing content.
 
-13.1 Access and Use
+### 13.1 Access and Use
 
-* License to Use Platform: Subject to your compliance with this Agreement, Moseiki grants you a limited, non-exclusive, non-transferable, non-sublicensable license to access and use the Platform for personal or internal business purposes.
-* Prohibited Uses: You agree not to use the Platform for any illegal or unauthorized purposes or to violate any laws in your jurisdiction.
+* **License to Use Platform:** Subject to your compliance with this Agreement, Moseiki grants you a limited, non-exclusive, non-transferable, non-sublicensable license to access and use the Platform for personal or internal business purposes.
+* **Prohibited Uses:** You agree not to use the Platform for any illegal or unauthorized purposes or to violate any laws in your jurisdiction.
 
-13.2 Usage Restrictions
+### 13.2 Usage Restrictions
 
-* Prohibited Activities: You may not:
-*
-  * Decompile, reverse engineer, disassemble, or attempt to derive the source code of any software used on the Platform.
-  * Use the Platform or services for any purpose that is illegal or prohibited by this Agreement.
-  * Exploit any part of the Platform for commercial purposes without Moseiki’s express consent.
+* Prohibited Activities, you may not:
+* Decompile, reverse engineer, disassemble, or attempt to derive the source code of any software used on the Platform.
+* Use the Platform or services for any purpose that is illegal or prohibited by this Agreement.
+* Exploit any part of the Platform for commercial purposes without Moseiki’s express consent.
 
-13.3 Account Registration
+### 13.3 Account Registration
 
-* User Accounts: To access certain features of the Platform, you may be required to register for an account. You must provide accurate and complete information during registration and update your information as necessary. You are solely responsible for the activity that occurs under your account and for maintaining the security of your account credentials.
+* **User Accounts:** To access certain features of the Platform, you may be required to register for an account. You must provide accurate and complete information during registration and update your information as necessary. You are solely responsible for the activity that occurs under your account and for maintaining the security of your account credentials.
 
-13.4 User Content
+### 13.4 User Content
 
-* Ownership of Content: You retain ownership of any intellectual property rights in the content you upload, submit, or store on the Platform (“User Content”). By submitting User Content to Moseiki, you grant Moseiki a worldwide, royalty-free, perpetual, irrevocable, non-exclusive, transferable, and sublicensable license to use, copy, modify, distribute, display, and perform your User Content in connection with the Platform and services.
+* **Ownership of Content:** You retain ownership of any intellectual property rights in the content you upload, submit, or store on the Platform (“User Content”). By submitting User Content to Moseiki, you grant Moseiki a worldwide, royalty-free, perpetual, irrevocable, non-exclusive, transferable, and sublicensable license to use, copy, modify, distribute, display, and perform your User Content in connection with the Platform and services.
 
-13.5 Acceptable Use
+### 13.5 Acceptable Use
 
-* Prohibited Conduct: You agree not to engage in any prohibited conduct, including:
-*
+* **Prohibited Conduct:**&#x20;
   * Copying, distributing, or disclosing any part of the services in any unauthorized medium.
   * Using automated systems, such as “robots,” “spiders,” or “scrapers,” to access the Platform without Moseiki’s permission.
   * Sending unsolicited messages, spam, or chain letters, or otherwise interfering with the Platform’s operations.
 
-13.6 Termination of Use
+### 13.6 Termination of Use
 
-* Termination Rights: Moseiki may, at its discretion and without prior notice, suspend or terminate your license to use the Platform if you breach any terms of this Agreement or engage in prohibited conduct.
+* **Termination Rights:** Moseiki may, at its discretion and without prior notice, suspend or terminate your license to use the Platform if you breach any terms of this Agreement or engage in prohibited conduct.
 
-\
-
-
-14\. Contact and Support
+## 14. Contact and Support
 
 Moseiki is committed to providing you with assistance and support for any questions, issues, or feedback related to your use of the Platform and services. This section details the options for reaching out to Moseiki’s support team.
 
-14.1 General Inquiries
+### 14.1 General Inquiries
 
 * Contact Information: For any questions, concerns, or additional information regarding this Agreement or the Platform, please contact us at:
-*
   * Email: [support@moseiki.app](mailto:support@moseiki.app)
 
-14.2 Technical Support
+### 14.2 Technical Support
 
-* Support Requests: If you experience technical issues or encounter problems with the Platform or services, please provide a detailed description of the issue. Our support team will work to resolve the issue promptly.
-* Response Time: While we strive to respond as quickly as possible, response times may vary depending on the complexity of the request and current support volume.
+* **Support Requests:** If you experience technical issues or encounter problems with the Platform or services, please provide a detailed description of the issue. Our support team will work to resolve the issue promptly.
+* **Response Time:** While we strive to respond as quickly as possible, response times may vary depending on the complexity of the request and current support volume.
 
-14.3 Feedback and Suggestions
+### 14.3 Feedback and Suggestions
 
-* User Feedback: Moseiki values feedback from our users. You are encouraged to share comments, suggestions, and ideas for improvements to the Platform and services. Please send feedback to support@moseiki.app.
-* Feedback Use: Any feedback submitted by users may be used by Moseiki as outlined in Section 12.4, without any obligation to compensate the user.
+* **User Feedback:** Moseiki values feedback from our users. You are encouraged to share comments, suggestions, and ideas for improvements to the Platform and services. Please send feedback to support@moseiki.app.
+* **Feedback Use:** Any feedback submitted by users may be used by Moseiki as outlined in Section 12.4, without any obligation to compensate the user.
 
-14.4 Reporting Violations
+### 14.4 Reporting Violations
 
-* Report Misconduct: If you believe that another user has violated this Agreement or infringed upon your rights, please contact us with a detailed description of the alleged violation. Our team will review the report and take appropriate action as needed.
+* **Report Misconduct:** If you believe that another user has violated this Agreement or infringed upon your rights, please contact us with a detailed description of the alleged violation. Our team will review the report and take appropriate action as needed.
 
 \
