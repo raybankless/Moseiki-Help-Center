@@ -197,15 +197,15 @@ Moseiki is committed to ensuring the security of your personal information. We e
 * **Audits and Testing:** We conduct regular security assessments, including vulnerability testing and audits, to identify and address potential security risks within our platform.
 * **Ongoing Monitoring:** Our systems are continuously monitored to detect and respond to any suspicious activity, breaches, or attempted intrusions.
 
-**9.4 Third-Party Security Standards**
+### **9.4 Third-Party Security Standards**
 
 * **Trusted Service Providers:** We work only with trusted service providers who meet rigorous security standards and who are contractually obligated to protect your data according to our requirements.
 
-**9.5 User Responsibility**
+### **9.5 User Responsibility**
 
 * **Account Security:** You are responsible for maintaining the security of your account, including keeping your password confidential. We recommend using strong, unique passwords and updating them regularly.
 
-**9.6 Breach Notification**
+### **9.6 Breach Notification**
 
 * **In the Event of a Security Breach:** In the unlikely event of a data breach, we will notify affected users and relevant authorities as required by law. Our incident response plan is designed to quickly contain and mitigate any security breach, safeguarding user data.
 
