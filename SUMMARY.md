@@ -19,9 +19,9 @@
 
 ## REWARDS
 
-* [Rewards](rewards/rewards.md)
+* [Rewards Program](rewards/rewards-program.md)
 * [Vibe Points](rewards/vibe-points.md)
-* [Vibecash](rewards/vibecash.md)
+* [Vibecash](vibecash.md)
 
 ## 🪄 Moseiki Features
 

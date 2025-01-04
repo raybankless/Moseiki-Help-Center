@@ -1,4 +1,4 @@
-# Rewards
+# Rewards Program
 
 #### Rewards Program
 

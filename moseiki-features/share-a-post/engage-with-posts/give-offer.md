@@ -2,7 +2,7 @@
 
 You can only give offers to posts that are not [Memories](../../create-a-memory.md#how-to-keep-a-post-as-a-memory) yet or Memories that are not listed for sale. To give an offer on a post to gain ownership, start by clicking the <mark style="color:purple;">Give Offer</mark> button from the post menu.
 
-Enter your offer amount and pay [Vibecash](../../../rewards/vibecash.md).
+Enter your offer amount and pay [Vibecash](../../../vibecash.md).
 
 Finally, click <mark style="color:purple;">Submit</mark> to complete the process.
 
