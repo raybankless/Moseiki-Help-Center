@@ -1,18 +1,18 @@
 # Rewards Program
 
-#### Rewards Program
+### Rewards Program
 
 Unlock exclusive opportunities and earn Vibe Points by participating in our two-phase Rewards Program. Complete missions, make progress, and discover something extraordinary waiting for you at the finish line.
 
 ***
 
-**Enrollment Eligibility**
+### **Enrollment Eligibility**
 
 * You must have **100 followers** to enroll in the Rewards Program.
 
 ***
 
-#### Program Details
+### Program Details
 
 **Phase Structure**
 
@@ -23,7 +23,7 @@ Unlock exclusive opportunities and earn Vibe Points by participating in our two-
 
 ***
 
-**Phase 1 Daily Missions**
+### **Phase 1 Daily Missions**
 
 Complete each task daily to earn Vibe Points:
 
@@ -34,7 +34,7 @@ Complete each task daily to earn Vibe Points:
 
 ***
 
-**Phase 2 Daily Missions**
+### **Phase 2 Daily Missions**
 
 Complete each task daily to earn Vibe Points:
 
@@ -47,7 +47,7 @@ Complete each task daily to earn Vibe Points:
 
 ***
 
-#### Phase Missions
+### Phase Missions
 
 Complete these missions within each phase:
 
@@ -58,7 +58,7 @@ Complete these missions within each phase:
 
 ***
 
-#### Referrals
+### Referrals
 
 * Upon enrolling in the Rewards Program, you’ll receive **5 referral codes** via email.
 * When a new user signs up with your referral code, you earn **20 Vibe Points** per referral (up to **100 Vibe Points per phase**).
@@ -66,6 +66,6 @@ Complete these missions within each phase:
 
 ***
 
-#### Unlock the Mystery
+### Unlock the Mystery
 
 Complete **both phases** of the Rewards Program to unlock something truly special. It’s exclusive, it’s rare, and it’s only for those who go the distance. Are you ready to find out what awaits?

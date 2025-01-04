@@ -1,6 +1,6 @@
 # Vibe Points
 
-**How to Earn Vibe Points**
+### **How to Earn Vibe Points**
 
 You can earn Vibe Points through the following missions:
 
@@ -14,7 +14,7 @@ You can earn Vibe Points through the following missions:
 
 ***
 
-**Important Notes About Vibe Points**
+### **Important Notes About Vibe Points**
 
 * **No Monetary Value**: Vibe Points cannot be redeemed for cash or other monetary assets.
 * **Daily Reset**: Points must be claimed by the end of each day. Any unclaimed points will expire at midnight and cannot roll over to the next day.
