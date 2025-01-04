@@ -17,7 +17,7 @@
   * [Navigate Your Content](manage-your-account/your-moseiki-profile/navigate-your-content.md)
 * [Log into Moseiki](manage-your-account/log-into-moseiki.md)
 
-## REWARDS
+## 💰 REWARDS
 
 * [Rewards Program](rewards/rewards-program.md)
 * [Vibe Points](rewards/vibe-points.md)
