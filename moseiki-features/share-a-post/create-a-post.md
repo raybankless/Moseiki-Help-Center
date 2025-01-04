@@ -11,23 +11,16 @@ To start creating a post, tap on the ![](<../../.gitbook/assets/arti (1).png>) <
 **Creating Your Post**
 
 1. **User Identity**: At the top of the post creation page, your thumbnail and username are displayed, confirming the account you are posting from.
-2. **Choose Post Visibility**: Select who can see your post using the dropdown visibility selector:
-   * **Public**: Visible to anyone on Moseiki.
-   * **Private**: Visible only to your friends.
-   * Close Friends: Visible only to your Close Friends Circle.
-3. **Compose Your Text**: You can type up to 222 characters. Emojis count as 2 characters each. The app will automatically suggest AI-generated photo thumbnails when you input a period (.) in your text.
-4. **Add Media and More**: Below the text area, use the selection bar to add different types of content to your post. Here’s what you can include:
-   * ![](<../../.gitbook/assets/Frame (1).png>)[**Add Media From Device Storage/Media Library**](https://app.gitbook.com/s/ERa0omXloOunEjWXbqWy/moseiki-features/share-a-post/create-a-post#add-media-from-device-storage-media-library)
-   * ![](<../../.gitbook/assets/Vector (7).png>) **Add GIF from Giphy**
+2. **Compose Your Text**: You can type up to 222 characters. Emojis count as 2 characters each. The app will automatically suggest AI-generated photo thumbnails when you input a period (.) in your text.
+3. **Add Media and More**: Below the text area, use the selection bar to add different types of content to your post. Here’s what you can include:
+   * ![](<../../.gitbook/assets/Frame (1).png>)[**Add Media From Device Storage/Media Library**](create-a-post.md#how-to-add-media-from-device-storage-media-library-to-a-post)
+   * ![](<../../.gitbook/assets/Vector (7).png>) [**Add GIF from Giphy**](create-a-post.md#how-to-add-a-gif-to-a-post)
    * ![](../../.gitbook/assets/tagPeopleIcon.svg) **Tag Friends**
-   * ![](<../../.gitbook/assets/Frame 6878.png>) [**Add Voice Recording**](https://app.gitbook.com/s/ERa0omXloOunEjWXbqWy/moseiki-features/share-a-post/create-a-post#add-voice-recording)
-   * <img src="../../.gitbook/assets/Vector (1).svg" alt="" data-size="line"> **Add Music from Sound Stripe**
-   * ![](<../../.gitbook/assets/Frame 6877.png>) **Add Poll**
-   * ![](<../../.gitbook/assets/Frame 180.png>)**Add Location**
-5. **Content Compatibility**: When you choose a type of media, incompatible options will be faded out on the selection bar. Here’s a quick compatibility guide:
+   * ![](<../../.gitbook/assets/Frame 6878.png>) [**Add Voice Recording**](create-a-post.md#how-to-add-voice-recording-to-a-post)
+   * ![](<../../.gitbook/assets/Frame 180.png>)[**Add Location**](create-a-post.md#how-to-add-a-location-to-a-post)
+4. **Content Compatibility**: When you choose a type of media, incompatible options will be faded out on the selection bar. Here’s a quick compatibility guide:
    * **Media from Device and GIFs**: Cannot be added together.
-   * **Polls**: Cannot include GIFs, Media from the device, or Voice Recordings but can include Music and allow tagging friends and location.
-6. Once you have added your desired content, review your post to ensure everything is as you want it. When ready, tap the <mark style="color:purple;">Post</mark> button to share your creation with the community.
+5. Once you have added your desired content, review your post to ensure everything is as you want it. When ready, tap the <mark style="color:purple;">Post</mark> button to share your creation with the community.
 
 **Content Restrictions**: Please be aware that posts containing explicit violence, sexual content, or support for terrorism are prohibited.
 
@@ -122,38 +115,6 @@ Tap the ![](<../../.gitbook/assets/Vector (7).png>) <mark style="color:purple;">
 
 <details>
 
-<summary>How to add music to a post?</summary>
-
-Tap the <img src="../../.gitbook/assets/Vector (1).svg" alt="" data-size="line"> <mark style="color:purple;">Music</mark> to open the music selection panel.
-
-1. Choose between the “For you”, “Favourite”, or genre-specific sections like “Electronic”, “Pop”, etc., from the top or bottom menu.
-2. Use the search bar to find specific tracks or artists, or browse through the recommended lists or genres.
-3. To add a song to your playlist or favorites, tap the ![](<../../.gitbook/assets/Vector (14).png>) <mark style="color:purple;">Bookmark</mark> Icon next to the song title to add a song to your playlist or the ![](../../.gitbook/assets/arrow-forward.png)<mark style="color:purple;">Arrow</mark> icon to add it to your post.
-
-Additional Tips
-
-• Personalized Recommendations: Frequently adding songs or interacting with various tracks will improve personalized recommendations under the “For you” tab.
-
-• Managing Playlists: You can manage or modify your playlists by accessing them through the “Favourited” or specific playlist sections from the main menu.
-
-</details>
-
-<details>
-
-<summary>How to add a poll to a post?</summary>
-
-Tap the ![](<../../.gitbook/assets/Frame 6877.png>) <mark style="color:purple;">Poll Button</mark> when creating a post.
-
-1. Enter your first choice in the "Choice 1" field.
-2. Tap the ![](<../../.gitbook/assets/Vector (17).png>) button to add another choice. Repeat this step to add more choices as needed.
-3. To delete a choice, click the ![](<../../.gitbook/assets/Vector (18).png>) button next to it.
-4. Set the poll duration by selecting the desired time frame from the "Poll duration" dropdown menu.
-5. Once you have completed all fields, tap the "Post" button at the top right to publish your poll.
-
-</details>
-
-<details>
-
 <summary>How to add a location to a post?</summary>
 
 Tap the ![](<../../.gitbook/assets/Frame 180.png>) <mark style="color:purple;">Location Button</mark> when creating a post.
@@ -178,19 +139,5 @@ a
 4. If applicable, select the pieces in the collection you want to give an offer on. You can select individual pieces or the entire collection.
 5. Enter your offer price. Make sure the price meets the minimum requirement specified. Confirm your price and submit the offer.
 6. Once submitted, you will see a confirmation screen indicating that your offer was successful. If the offer is accepted, you will be notified.
-
-</details>
-
-<details>
-
-<summary>How Draft Posts work?</summary>
-
-When you start a post and are unable to complete it, whether due to needing to check something or for any other reason, Moseiki saves your half-written post as a draft. This allows you to continue writing your post at a later time without losing any progress.
-
-To access your drafts:
-
-* Tap on <mark style="color:purple;">Create Post</mark> from your profile or the main menu.
-* If you have any drafts saved, a <mark style="color:purple;">Drafts</mark> button will appear at the top section of the screen, tap on it.
-* Continue writing your post and complete it as needed.
 
 </details>

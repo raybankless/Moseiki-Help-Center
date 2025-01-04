@@ -27,11 +27,3 @@ The <mark style="color:purple;">For You</mark> tab is the default section of the
 The <mark style="color:purple;">Following</mark> tab displays posts exclusively from users you follow on the app. This section keeps you connected with the latest updates and posts from your personal network, ensuring you never miss content from those you are interested in.
 
 </details>
-
-<details>
-
-<summary>Trending Tab</summary>
-
-The <mark style="color:purple;">Trending</mark> tab features posts that are currently popular across the app, highlighting trending topics and viral content. It offers a snapshot of what’s capturing the app community’s attention, providing a broader view of popular discussions and themes.
-
-</details>

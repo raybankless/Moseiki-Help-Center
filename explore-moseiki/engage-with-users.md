@@ -22,15 +22,6 @@ Engagement with user profiles on Moseiki is primarily managed through the kebab 
 
 <details>
 
-<summary>How to Block a user?</summary>
-
-* Tap the ![](<../.gitbook/assets/Vector (1) (2).png>) <mark style="color:purple;">Kebab Menu</mark> on the top right corner of the screen and select <mark style="color:purple;">Block</mark> from the menu options.
-* Choose the reason for reporting and follow the on-screen instructions to submit your report.
-
-</details>
-
-<details>
-
 <summary>How to Report a user?</summary>
 
 Tap the ![](<../.gitbook/assets/Vector (1) (2).png>) <mark style="color:purple;">Kebab Menu</mark> on the top right corner of the screen and select <mark style="color:purple;">Report</mark> from the menu options.

@@ -12,24 +12,8 @@ You can view all your posts by selecting the Posts Tab from your profile. **Post
 
 <details>
 
-<summary>Stories Tab</summary>
+<summary>NFT Tab</summary>
 
-You can view the stories you shared by clicking the Stories Tab in your profile. [Stories](../../moseiki-features/stories.md) provide a dynamic way to share content that is visible for 22 hours before disappearing. In this tab, you can view past stories, see viewer statistics, and access stories you've archived. Learn [How to Create and Share a Story](../../moseiki-features/stories.md#create-and-share-a-story).
-
-</details>
-
-<details>
-
-<summary>Replies Tab</summary>
-
-You can view your replies **Replies** to your interactions on posts made by others by clicking the Replies Tab in your profile. This tab organizes all the comments you've made across Moseiki, allowing you to revisit conversations or follow up on discussions.
-
-</details>
-
-<details>
-
-<summary>Saved Tab</summary>
-
-You can view your sved posts from other users by clicking the Saved Tab in your profile. The **Saved** section is your personal collection of posts and content that you find meaningful or want to access quickly in the future. Here, you can organize saved posts into collections or categories for easy retrieval.
+You can view your NFT posts by clicking the NFT Tab in your profile. The **NFT** section is your personal collection of NFT posts and content that you created or converted and want to access quickly in the future.
 
 </details>

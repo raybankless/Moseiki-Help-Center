@@ -30,8 +30,8 @@ You can tap the <mark style="color:purple;">**Continue with Google**</mark> butt
 
 <details>
 
-<summary>Continue with Xion</summary>
+<summary>Continue with Apple</summary>
 
-You can tap the <mark style="color:purple;">**Continue with Xion**</mark> button and enter an email address you want to use with Moseiki. This will log you into Moseiki if you have an existing account, or if you do not, it will start account creation process.
+You can tap the <mark style="color:purple;">**Continue with Apple**</mark> button and enter an Apple Account email address you want to use with Moseiki. This will log you into Moseiki if you have an existing account, or if you do not, it will start account creation process.
 
 </details>

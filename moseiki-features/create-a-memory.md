@@ -5,16 +5,12 @@ NFT Posts are the most effective way to monetize your content on Moseiki. Create
 Click on <mark style="color:purple;">**Shop**</mark> in the top menu of the [post creation screen](share-a-post/create-a-post.md).
 
 1. **Choose Source:**
-   * **Voice:** Create a voice recording. If it's longer than 22 minutes, it will be divided into 22-minute segments.
    * **Camera:** Use your device camera to create a visual asset.
    * **Select from Library:** Choose an asset from your device library.
 2. **Fill in NFT Details:**
    * **Name:** Enter the name of the NFT.
-   * **Description:** Provide a short description.
-   * **Category:** Select a category (Art, Content, Collectibles, Domain, Gaming, Membership Passes, Music, Photography, PFPs, Video).
+   * **Description:** Provide a short description, this will be shown as your posts text content.
 3. **Define Selling Options:**
-   * Choose **Buy Now**, **Place a Bid**, or **Counter Offer**.
-   * **Quantity:** Specify if it's a Limited Edition and the quantity, or select Limitless.
    * **Royalty Fee:** Set the royalty fee.
    * **Price:** Determine the price.
 
@@ -33,32 +29,15 @@ Moreover, by converting your post into a Memory, you open up possibilities to mo
 Click the ![](<../.gitbook/assets/Vector (1) (2).png>) <mark style="color:purple;">Kebab Menu</mark> and then click <mark style="color:purple;">Keep as Memory</mark> on the post you wish to convert.
 
 1. **Set Visibility Toggles:**
-   * **Show on Shop:** Decide if you want the Memory to be visible on the Shop.
-   * **Show Your Profile Info:** Choose to display your profile information on the Memory.
-   * **Show Post Content:** Opt to show or hide the text-based part of the content.
+   * **List for sale:** Decide if you want the Memory to be visible on the time as for sale or not.
 2. **Fill in Memory Details:**
    * **Name:** Enter the name of the Memory.
-   * **Description:** Provide a short description.
-   * **Category:** Select from categories such as Art, Content, Collectibles, Domain, Gaming, Membership Passes, Music, Photography, PFPs, Video.
+   * **Description:** Provide a short description, this will be shown as your posts text content.
 3.  **Define Selling Options:**
 
-    * Select from [Buy Now](create-a-memory.md#selling-options-for-nfts-in-moseiki), [Place a Bid](create-a-memory.md#selling-options-for-nfts-in-moseiki), or [Counter Offer](create-a-memory.md#selling-options-for-nfts-in-moseiki).
-    * **Quantity:** Specify if it's a Limited Edition and the number, or choose Limitless.
     * **Royalty Fee:** Set the royalty fee.
     * **Price:** Decide the price.
 
     Click <mark style="color:purple;">Continue</mark> to finalize the conversion.
-
-</details>
-
-<details>
-
-<summary>Selling Options for NFTs in Moseiki</summary>
-
-**Buy Now :** The "Buy Now" option allows users to purchase the NFT immediately at a fixed price set by the seller. This is ideal for users who want to acquire the NFT quickly without waiting for an auction to end.
-
-**Place a Bid :** With the "Place a Bid" option, users can participate in an auction by submitting their bid amount. The highest bid at the end of the auction period wins the NFT. This option is suitable for those looking to purchase NFTs potentially below the "Buy Now" price or engage in competitive bidding.
-
-**Counter Offer :** The "Counter Offer" option allows the seller to set a time duration during which users can place their bids. At the end of the specified duration, the seller must decide which bid to accept. If no bids are accepted within the timeframe, the asset stops being listed. This method adds a sense of urgency and encourages competitive bidding within a limited time window.
 
 </details>
