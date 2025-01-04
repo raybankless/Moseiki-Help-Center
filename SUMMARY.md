@@ -17,6 +17,12 @@
   * [Navigate Your Content](manage-your-account/your-moseiki-profile/navigate-your-content.md)
 * [Log into Moseiki](manage-your-account/log-into-moseiki.md)
 
+## REWARDS
+
+* [Rewards](rewards/rewards.md)
+* [Vibe Points](rewards/vibe-points.md)
+* [Vibecash](rewards/vibecash.md)
+
 ## 🪄 Moseiki Features
 
 * [Posts](moseiki-features/share-a-post/README.md)
@@ -45,8 +51,3 @@
 * [Family Safety and Parental Guidelines](documents/family-safety-and-parental-guidelines.md)
 * [Copyright](documents/copyright.md)
 * [Contacts](documents/contacts.md)
-
-***
-
-* [Vibecash](vibecash.md)
-* [Rewards](rewards.md)

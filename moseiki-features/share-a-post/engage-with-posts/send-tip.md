@@ -10,7 +10,7 @@
 
 1\. Click the <img src="../../../.gitbook/assets/Vector.svg" alt="" data-size="line"> <mark style="color:purple;">Send Tip</mark> <mark style="color:purple;">Button</mark>: Locate this under the post you appreciate.
 
-2\. Select the amount you want to tip from predefined [Vibecash](../../../vibecash.md) values that suit your intention.
+2\. Select the amount you want to tip from predefined [Vibecash](../../../rewards/vibecash.md) values that suit your intention.
 
 3\. Type an engaging comment.
 
