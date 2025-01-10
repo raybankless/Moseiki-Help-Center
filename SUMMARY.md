@@ -48,6 +48,6 @@
 
 * [MOSEIKI END USER AGREEMENT (EUA)](documents/moseiki-end-user-agreement-eua.md)
 * [Privacy Policy](documents/privacy-policy.md)
-* [Family Safety and Parental Guidelines](documents/family-safety-and-parental-guidelines.md)
+* [Family Safety and CSAE Guidelines](documents/family-safety-and-csae-guidelines.md)
 * [Copyright](documents/copyright.md)
 * [Contacts](documents/contacts.md)
