@@ -31,6 +31,7 @@ We collect various types of information to provide and improve our services, per
 
 * **Log Files:** We automatically collect log files when you interact with our services. This data includes your IP address, browser type, pages viewed, and timestamps. We use this information to analyze trends, manage the platform, and monitor its security.
 * **Device Information:** We collect information about the device you use to access Moseiki, including the device's unique identifier, operating system, browser type, and network information.
+* **(Android Only) Our App uses Stripe payments.** which requires information about your phone number and apps installed on the device in order to ensure secure and successful payment.
 
 ### 3.4 Transactional Data
 
