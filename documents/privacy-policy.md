@@ -31,7 +31,6 @@ We collect various types of information to provide and improve our services, per
 
 * **Log Files:** We automatically collect log files when you interact with our services. This data includes your IP address, browser type, pages viewed, and timestamps. We use this information to analyze trends, manage the platform, and monitor its security.
 * **Device Information:** We collect information about the device you use to access Moseiki, including the device's unique identifier, operating system, browser type, and network information.
-* **(Android Only) Our App uses Stripe payments:** Stripe requires information about your phone number and apps installed on the device in order to ensure secure and successful payment.
 
 ### 3.4 Transactional Data
 
@@ -210,34 +209,60 @@ Moseiki is committed to ensuring the security of your personal information. We e
 
 * **In the Event of a Security Breach:** In the unlikely event of a data breach, we will notify affected users and relevant authorities as required by law. Our incident response plan is designed to quickly contain and mitigate any security breach, safeguarding user data.
 
+## 10. Payment Processing via Stripe
 
+We use Stripe, a third-party payment processor, to facilitate payments made within our application. Stripe is a secure payment processing platform that complies with the Payment Card Industry Data Security Standard (PCI-DSS).
 
-\
+When you make a purchase through our app, your payment information is transmitted directly to Stripe. We do not store or process your payment card details on our servers. Stripe collects and processes this information according to its own privacy policy, which you can review here: [Stripe Privacy Policy](https://stripe.com/privacy).
 
+### 10.1 Data Collected by Stripe Stripe may collect the following information when processing payments:
 
+* Payment card details (e.g., card number, expiration date, and CVV).
+* Billing and shipping information (e.g., name, address, and phone number).
+* Transaction details (e.g., payment amount, date, and item(s) purchased).
 
+### 10.2 Purpose of Processing The data collected by Stripe is used to:
 
+* Process and verify your payments.
+* Prevent fraud and secure payment transactions.
+* Comply with legal and regulatory requirements related to financial transactions.
 
+### 10.3 Sharing with Stripe
 
+By making a payment within our application, you acknowledge and agree that your payment information may be shared with Stripe solely for the purposes of payment processing. Stripe may also share your information with financial institutions and payment networks to facilitate transactions.
 
+### 10.4 Your Rights
 
+You may have rights concerning your payment information, including the right to access, correct, or delete your data, as governed by applicable laws. Please refer to Stripe's privacy policy for more details about your rights and how to exercise them.
 
+If you have any concerns about how your payment data is handled, you may contact us at legal@moseiki.app or Stripe directly through their support channels.
 
+## 11. Changes to This Policy
 
+Moseiki reserves the right to modify or update this Privacy Policy at any time. We will provide notice of any significant changes to ensure you are aware of how your information is being handled.
 
+### **11.1 Notification of Changes**
 
+* In-App and Website Notifications: We will post a notice on our platform, either through the website or app, to inform you of significant changes to this Privacy Policy.
+* Email Notification: If you have an active account, we may also notify you by email of major changes, using the contact details you provided.
 
+### **11.2 Reviewing Changes**
 
+* Policy Updates: When changes are made, we will update the “Last Modified” date at the top of the Privacy Policy to reflect the latest version.
+* User Responsibility: It is your responsibility to review this policy periodically to stay informed about any modifications. Continued use of Moseiki after changes have been implemented signifies your acceptance of the updated terms.
 
+### **11.3 Effective Date**
 
+* When Changes Take Effect: Unless otherwise stated, updates to this Privacy Policy will take effect 30 days after they are posted. For material changes, we may provide a longer notice period.
 
+## 12. Contact Us:&#x20;
 
+For any questions, concerns, or disputes, you can reach us at:
 
+Title: Hot Skulls Labs Ltd.
 
+Address: Quijano Chambers, P.O Box 3159, Road Town, Tortola, British Virgin Islands
 
+Email: [legal@moseiki.app](mailto:legal@moseiki.app)
 
-
-
-
-
-
+Website: [moseiki.app](https://moseiki.app)
