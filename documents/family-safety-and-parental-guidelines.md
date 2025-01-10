@@ -23,5 +23,3 @@ Our reporting system allows users to quickly and easily flag content that may be
 **Collaborative Safety Measures**
 
 In addition to our robust reporting system, we have implemented advanced monitoring technologies to assist in identifying and preventing the sharing of harmful content. This multi-layered approach combines the power of community reporting with advanced technological safeguards to ensure a secure and family-friendly environment on Moseiki. Any illegal activities detected are promptly reported to the authorities, reinforcing our commitment to user safety.
-
-4o
