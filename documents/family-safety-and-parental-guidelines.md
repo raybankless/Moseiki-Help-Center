@@ -6,10 +6,6 @@
 
 At Moseiki, we prioritize maintaining a safe and secure environment for all our users, particularly families. Our commitment to safeguarding children from harmful content is unwavering, and we have implemented advanced measures to ensure a family-friendly platform.
 
-**Advanced AI Safeguards**
-
-We employ advanced AI technology to help us identify and prevent the sharing of inappropriate or harmful content. This proactive approach helps us maintain a high standard of safety, ensuring that your family can enjoy Moseiki without encountering harmful materials.
-
 **Swift Action and Prioritization**
 
 In the rare event that inappropriate content bypasses our initial safeguards, we ensure that it is addressed with the utmost urgency. Our dedicated review team prioritizes reports of harmful content, especially those that could affect children, and takes swift and decisive action. We also work closely with authorities to report any illegal activities, ensuring a secure environment for everyone.
